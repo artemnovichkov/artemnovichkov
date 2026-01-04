@@ -1,6 +1,6 @@
 # Hi, I'm Artem 👋
 
-📍 **Almaty, Kazakhstan** | 📱 **iOS Developer** | 🧔 **Bearded coder**
+📍 **Almaty, Kazakhstan** | 📱 **iOS Developer** | 👨🏻‍💻 **SwiftUI + AI**
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
@@ -8,7 +8,7 @@
 ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
-> Building iOS apps and exploring Apple's Foundation Models. Currently at Salmon Group Ltd.
+> Building iOS apps and exploring SwiftUI. Currently at Salmon Group Ltd.
 
 ## Current Projects
 
@@ -30,6 +30,6 @@
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/-@iosartem-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/iosartem)
-[![Blog](https://img.shields.io/badge/-artemnovichkov.com-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://artemnovichkov.com)
+[![Blog](https://img.shields.io/badge/-artemnovichkov.com-FF5722?style=flat-square)](https://artemnovichkov.com)
 [![LinkedIn](https://img.shields.io/badge/-Artem_Novichkov-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artemnovichkov)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/artemnovichkov)
