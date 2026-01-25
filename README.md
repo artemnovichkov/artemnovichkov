@@ -21,11 +21,11 @@
 
 ## Latest Blog Posts
 
+- [Highlighting code blocks in Markdown with SwiftSyntax](https://artemnovichkov.com/blog/highlighting-code-blocks-in-markdown-with-swiftsyntax)
 - [Rendering Markdown in SwiftUI](https://artemnovichkov.com/blog/rendering-markdown-in-swiftui)
 - [Foundation Models profiling with Xcode Instruments](https://artemnovichkov.com/blog/foundation-models-profiling)
 - [Working with partially generated content in Xcode previews](https://artemnovichkov.com/blog/partially-generated-content-preview)
 - [Handling WebView navigation in SwiftUI](https://artemnovichkov.com/blog/webview-navigation)
-- [Using WebKit to load web content in SwiftUI](https://artemnovichkov.com/blog/webkit-swiftui)
 
 ## Connect
 
