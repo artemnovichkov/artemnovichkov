@@ -12,6 +12,7 @@
 
 ## Current Projects
 
+- 🎚️ **[ClaudeAgentBar](https://github.com/artemnovichkov/ClaudeAgentBar)** - A macOS menu bar app for tracking Claude Agent stats from Xcode
 - 🎨 **[asset-catalog-viewer](https://github.com/artemnovichkov/asset-catalog-viewer)** - VS Code extension for .xcassets preview
 - 🔮 **[horoscope](https://github.com/artemnovichkov/horoscope)** - Dev horoscope powered by Foundation Models
 - 🐛 **[TranscriptDebugMenu](https://github.com/artemnovichkov/TranscriptDebugMenu)** - Debug menu for LanguageModelSession transcripts
