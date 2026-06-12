@@ -22,11 +22,11 @@
 
 ## Latest Blog Posts
 
+- [Using Claude with Apple Foundation Models](https://artemnovichkov.com/blog/using-claude-with-apple-foundation-models)
 - [Task Names in Swift Concurrency](https://artemnovichkov.com/blog/task-names-in-swift-concurrency)
 - [Tracking token usage in Foundation Models](https://artemnovichkov.com/blog/tracking-token-usage-in-foundation-models)
 - [Highlighting code blocks in Markdown with SwiftSyntax](https://artemnovichkov.com/blog/highlighting-code-blocks-in-markdown-with-swiftsyntax)
 - [Rendering Markdown in SwiftUI](https://artemnovichkov.com/blog/rendering-markdown-in-swiftui)
-- [Foundation Models profiling with Xcode Instruments](https://artemnovichkov.com/blog/foundation-models-profiling)
 
 ## Connect
 
