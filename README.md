@@ -17,7 +17,7 @@
 - 🔮 **[horoscope](https://github.com/artemnovichkov/horoscope)** - Dev horoscope powered by Foundation Models
 - 🐛 **[TranscriptDebugMenu](https://github.com/artemnovichkov/TranscriptDebugMenu)** - Debug menu for LanguageModelSession transcripts
 - ⌨️ **[shortcuts-mcp-server](https://github.com/artemnovichkov/shortcuts-mcp-server)** - Shortcuts + MCP = ♥️
-- 🔌 **[claude-code-plugins](https://github.com/artemnovichkov/claude-code-plugins)** - Claude Code plugins collection
+- 🔌 **[skills](https://github.com/artemnovichkov/skills)** - Claude Code plugins collection
 - 🆕 **[iOS-26-by-Examples](https://github.com/artemnovichkov/iOS-26-by-Examples)** - Hands-on iOS 26 feature examples
 
 ## Latest Blog Posts
