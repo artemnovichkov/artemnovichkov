@@ -22,11 +22,11 @@
 
 ## Latest Blog Posts
 
+- [Using SwiftUI’s ContentBuilder with Non-View Types](https://artemnovichkov.com/blog/using-swiftui-contentbuilder-with-non-view-types)
 - [Building a custom DynamicProfileModifier in Foundation Models](https://artemnovichkov.com/blog/building-a-custom-dynamic-profile-modifier-in-foundation-models)
 - [Using Claude with Apple Foundation Models](https://artemnovichkov.com/blog/using-claude-with-apple-foundation-models)
 - [Task Names in Swift Concurrency](https://artemnovichkov.com/blog/task-names-in-swift-concurrency)
 - [Tracking token usage in Foundation Models](https://artemnovichkov.com/blog/tracking-token-usage-in-foundation-models)
-- [Highlighting code blocks in Markdown with SwiftSyntax](https://artemnovichkov.com/blog/highlighting-code-blocks-in-markdown-with-swiftsyntax)
 
 ## Connect
 
