@@ -23,10 +23,10 @@
 ## Latest Blog Posts
 
 - [Headless Xcode: From Prompt to Simulator with MCP](https://artemnovichkov.com/blog/headless-xcode-from-prompt-to-simulator-with-mcp)
+- [Preview Multiple SwiftUI View States with #Preview(arguments:)](https://artemnovichkov.com/blog/previewing-swiftui-states-with-preview-arguments)
 - [Using SwiftUI’s ContentBuilder with Non-View Types](https://artemnovichkov.com/blog/using-swiftui-contentbuilder-with-non-view-types)
 - [Building a custom DynamicProfileModifier in Foundation Models](https://artemnovichkov.com/blog/building-a-custom-dynamic-profile-modifier-in-foundation-models)
 - [Using Claude with Apple Foundation Models](https://artemnovichkov.com/blog/using-claude-with-apple-foundation-models)
-- [Task Names in Swift Concurrency](https://artemnovichkov.com/blog/task-names-in-swift-concurrency)
 
 ## Connect
 
