@@ -22,11 +22,11 @@
 
 ## Latest Blog Posts
 
+- [Headless Xcode: From Prompt to Simulator with MCP](https://artemnovichkov.com/blog/headless-xcode-from-prompt-to-simulator-with-mcp)
 - [Using SwiftUI’s ContentBuilder with Non-View Types](https://artemnovichkov.com/blog/using-swiftui-contentbuilder-with-non-view-types)
 - [Building a custom DynamicProfileModifier in Foundation Models](https://artemnovichkov.com/blog/building-a-custom-dynamic-profile-modifier-in-foundation-models)
 - [Using Claude with Apple Foundation Models](https://artemnovichkov.com/blog/using-claude-with-apple-foundation-models)
 - [Task Names in Swift Concurrency](https://artemnovichkov.com/blog/task-names-in-swift-concurrency)
-- [Tracking token usage in Foundation Models](https://artemnovichkov.com/blog/tracking-token-usage-in-foundation-models)
 
 ## Connect
 
