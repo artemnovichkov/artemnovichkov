@@ -20,6 +20,15 @@
 - 🔌 **[skills](https://github.com/artemnovichkov/skills)** - Claude Code plugins collection
 - 🆕 **[iOS-26-by-Examples](https://github.com/artemnovichkov/iOS-26-by-Examples)** - Hands-on iOS 26 feature examples
 
+## iPhone Duo
+
+- 📐 **[iPhone-Duo-by-Examples](https://github.com/artemnovichkov/iPhone-Duo-by-Examples)** - SwiftUI examples for iPhone Duo APIs in iOS 27.1
+- 🔩 **[hinge](https://github.com/artemnovichkov/hinge)** - Control iPhone Duo Simulator hinge angle from CLI or AI agents
+- 🪗 **[Accorduon](https://github.com/artemnovichkov/Accorduon)** - Accordion where the hinge is the bellows
+- 🧸 **[ClawKit](https://github.com/artemnovichkov/ClawKit)** - Clay claw machine split across the fold
+- 🦢 **[Duogami](https://github.com/artemnovichkov/Duogami)** - Origami workshop: fold paper by folding the phone
+- ⏳ **[SandValley](https://github.com/artemnovichkov/SandValley)** - Sand that slides into the fold
+
 ## Latest Blog Posts
 
 - [Headless Xcode: From Prompt to Simulator with MCP](https://artemnovichkov.com/blog/headless-xcode-from-prompt-to-simulator-with-mcp)
