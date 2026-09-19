@@ -26,6 +26,7 @@
 - 🔩 **[hinge](https://github.com/artemnovichkov/hinge)** - Control iPhone Duo Simulator hinge angle from CLI or AI agents
 - 🪗 **[Accorduon](https://github.com/artemnovichkov/Accorduon)** - Accordion where the hinge is the bellows
 - 🧸 **[ClawKit](https://github.com/artemnovichkov/ClawKit)** - Clay claw machine split across the fold
+- 🐤 **[DuoBird](https://github.com/artemnovichkov/DuoBird)** - Flappy Bird where snapping the hinge open is the flap
 - 🦢 **[Duogami](https://github.com/artemnovichkov/Duogami)** - Origami workshop: fold paper by folding the phone
 - ⏳ **[SandValley](https://github.com/artemnovichkov/SandValley)** - Sand that slides into the fold
 
