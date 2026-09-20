@@ -22,13 +22,40 @@
 
 ## iPhone Duo
 
-- 📐 **[iPhone-Duo-by-Examples](https://github.com/artemnovichkov/iPhone-Duo-by-Examples)** - SwiftUI examples for iPhone Duo APIs in iOS 27.1
-- 🔩 **[hinge](https://github.com/artemnovichkov/hinge)** - Control iPhone Duo Simulator hinge angle from CLI or AI agents
-- 🪗 **[Accorduon](https://github.com/artemnovichkov/Accorduon)** - Accordion where the hinge is the bellows
-- 🧸 **[ClawKit](https://github.com/artemnovichkov/ClawKit)** - Clay claw machine split across the fold
-- 🐤 **[DuoBird](https://github.com/artemnovichkov/DuoBird)** - Flappy Bird where snapping the hinge open is the flap
-- 🦢 **[Duogami](https://github.com/artemnovichkov/Duogami)** - Origami workshop: fold paper by folding the phone
-- ⏳ **[SandValley](https://github.com/artemnovichkov/SandValley)** - Sand that slides into the fold
+Apps and games for the foldable iPhone Duo, where folding the device is the whole point.
+
+<table>
+<tr>
+<td width="80"><a href="https://github.com/artemnovichkov/iPhone-Duo-by-Examples"><img width="64" src="https://raw.githubusercontent.com/artemnovichkov/iPhone-Duo-by-Examples/main/.github/images/icon.png"></a></td>
+<td><a href="https://github.com/artemnovichkov/iPhone-Duo-by-Examples"><b>iPhone Duo by Examples</b></a><br>SwiftUI examples for every iPhone Duo API, one runnable file at a time.</td>
+</tr>
+<tr>
+<td width="80"><a href="https://github.com/artemnovichkov/Accorduon"><img width="64" src="https://raw.githubusercontent.com/artemnovichkov/Accorduon/main/.github/images/icon.png"></a></td>
+<td><a href="https://github.com/artemnovichkov/Accorduon"><b>Accorduon</b></a><br>An accordion where the hinge is the bellows. Fold and unfold to play.</td>
+</tr>
+<tr>
+<td width="80"><a href="https://github.com/artemnovichkov/SandValley"><img width="64" src="https://raw.githubusercontent.com/artemnovichkov/SandValley/main/.github/images/icon.png"></a></td>
+<td><a href="https://github.com/artemnovichkov/SandValley"><b>SandValley</b></a><br>Pour sand on the screen and fold the device to make it slide into the valley.</td>
+</tr>
+<tr>
+<td width="80"><a href="https://github.com/artemnovichkov/Duogami"><img width="64" src="https://raw.githubusercontent.com/artemnovichkov/Duogami/main/.github/images/icon.png"></a></td>
+<td><a href="https://github.com/artemnovichkov/Duogami"><b>Duogami</b></a><br>An origami workshop. Fold the phone to fold the paper, one crease at a time.</td>
+</tr>
+<tr>
+<td width="80"><a href="https://github.com/artemnovichkov/ClawKit"><img width="64" src="https://raw.githubusercontent.com/artemnovichkov/ClawKit/main/.github/images/icon.png"></a></td>
+<td><a href="https://github.com/artemnovichkov/ClawKit"><b>ClawKit</b></a><br>A clay claw machine. The cabinet stands above the fold, the controls sit below it.</td>
+</tr>
+<tr>
+<td width="80"><a href="https://github.com/artemnovichkov/DuoBird"><img width="64" src="https://raw.githubusercontent.com/artemnovichkov/DuoBird/main/.github/images/icon.png"></a></td>
+<td><a href="https://github.com/artemnovichkov/DuoBird"><b>DuoBird</b></a><br>Flappy Bird played with the hinge. Snap the device open to flap through the pipes.</td>
+</tr>
+<tr>
+<td width="80"><a href="https://github.com/artemnovichkov/DuoCut"><img width="64" src="https://raw.githubusercontent.com/artemnovichkov/DuoCut/main/.github/images/icon.png"></a></td>
+<td><a href="https://github.com/artemnovichkov/DuoCut"><b>DuoCut</b></a><br>The fold is a blade. Slide shapes under it and cut them in half.</td>
+</tr>
+</table>
+
+🔩 **[hinge](https://github.com/artemnovichkov/hinge)** - control the iPhone Duo Simulator hinge angle from the CLI or AI agents.
 
 ## Latest Blog Posts
 
