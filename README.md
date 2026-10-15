@@ -61,11 +61,11 @@ Apps and games for the foldable iPhone Duo, where folding the device is the whol
 
 ## Latest Blog Posts
 
+- [Xcode Projects for the Command Line and Coding Agents](https://artemnovichkov.com/blog/xcode-projects-for-the-command-line-and-coding-agents)
 - [SF Symbols from the Command Line and AI Agents](https://artemnovichkov.com/blog/sf-symbols-from-the-command-line-and-ai-agents)
 - [Headless Xcode: From Prompt to Simulator with MCP](https://artemnovichkov.com/blog/headless-xcode-from-prompt-to-simulator-with-mcp)
 - [Preview Multiple SwiftUI View States with #Preview(arguments:)](https://artemnovichkov.com/blog/previewing-swiftui-states-with-preview-arguments)
 - [Using SwiftUI’s ContentBuilder with Non-View Types](https://artemnovichkov.com/blog/using-swiftui-contentbuilder-with-non-view-types)
-- [Building a custom DynamicProfileModifier in Foundation Models](https://artemnovichkov.com/blog/building-a-custom-dynamic-profile-modifier-in-foundation-models)
 
 ## Connect
 
