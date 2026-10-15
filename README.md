@@ -10,6 +10,8 @@
 
 > Building iOS apps and exploring SwiftUI. Currently at Salmon Group Ltd.
 
+📬 I curate **[iOS Daily](https://t.me/+Ztgi6RU2ApFkNDhi)**, one essential iOS article a day on Telegram.
+
 ## Current Projects
 
 - 🎚️ **[ClaudeAgentBar](https://github.com/artemnovichkov/ClaudeAgentBar)** - A macOS menu bar app for tracking Claude Agent stats from Xcode
