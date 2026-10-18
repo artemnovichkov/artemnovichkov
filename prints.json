@@ -1,0 +1,1315 @@
+{
+ "schema": 1,
+ "prints": [
+  {
+   "id": 1347185742,
+   "start": "2026-10-17T05:58:04Z",
+   "end": "2026-10-17T06:36:06Z",
+   "status": "finished",
+   "grams": 8.22,
+   "filaments": [
+    {
+     "color": "#FF671F",
+     "type": "PLA",
+     "grams": 8.22
+    }
+   ],
+   "printer": "P2S",
+   "title": "pumpkins-3"
+  },
+  {
+   "id": 1345878239,
+   "start": "2026-10-16T18:45:32Z",
+   "end": "2026-10-16T19:03:23Z",
+   "status": "finished",
+   "grams": 2.78,
+   "filaments": [
+    {
+     "color": "#FF671F",
+     "type": "PLA",
+     "grams": 2.78
+    }
+   ],
+   "printer": "P2S",
+   "title": "pumpkin-test"
+  },
+  {
+   "id": 1345673429,
+   "start": "2026-10-16T17:29:26Z",
+   "end": "2026-10-16T18:13:57Z",
+   "status": "finished",
+   "grams": 7.72,
+   "filaments": [
+    {
+     "color": "#FF671F",
+     "type": "PLA",
+     "grams": 7.72
+    }
+   ],
+   "printer": "P2S",
+   "title": "halloween-pumpkins"
+  },
+  {
+   "id": 1345540559,
+   "start": "2026-10-16T16:41:42Z",
+   "end": "2026-10-16T17:18:08Z",
+   "status": "finished",
+   "grams": 14.19,
+   "filaments": [],
+   "printer": "P2S",
+   "title": "flow_rate_fine_calib_mode"
+  },
+  {
+   "id": 1345421571,
+   "start": "2026-10-16T15:59:31Z",
+   "end": "2026-10-16T16:34:01Z",
+   "status": "finished",
+   "grams": 12.73,
+   "filaments": [],
+   "printer": "P2S",
+   "title": "flow_rate_coarse_calib_mode"
+  },
+  {
+   "id": 1345391282,
+   "start": "2026-10-16T15:48:50Z",
+   "end": "2026-10-16T15:56:26Z",
+   "status": "finished",
+   "grams": 0.01,
+   "filaments": [],
+   "printer": "P2S",
+   "title": "auto_pa_line_calib_mode"
+  },
+  {
+   "id": 1344153365,
+   "start": "2026-10-16T06:12:01Z",
+   "end": "2026-10-16T06:50:24Z",
+   "status": "finished",
+   "grams": 7.18,
+   "filaments": [
+    {
+     "color": "#E8741C",
+     "type": "PLA",
+     "grams": 7.18
+    }
+   ],
+   "printer": "P2S",
+   "title": "ShadowSays_Halloween_pumpkins"
+  },
+  {
+   "id": 1344052567,
+   "start": "2026-10-16T05:04:15Z",
+   "end": "2026-10-16T05:21:51Z",
+   "status": "finished",
+   "grams": 2.42,
+   "filaments": [
+    {
+     "color": "#E8741C",
+     "type": "PLA",
+     "grams": 2.42
+    }
+   ],
+   "printer": "P2S",
+   "title": "ShadowSays_Halloween_pumpkins"
+  },
+  {
+   "id": 1341905077,
+   "start": "2026-10-15T13:45:09Z",
+   "end": "2026-10-15T17:22:01Z",
+   "status": "finished",
+   "grams": 95.11,
+   "filaments": [
+    {
+     "color": "#FFFFFF",
+     "type": "PLA",
+     "grams": 95.11
+    }
+   ],
+   "printer": "P2S",
+   "title": "penglai-lid"
+  },
+  {
+   "id": 1341444045,
+   "start": "2026-10-15T10:27:48Z",
+   "end": "2026-10-15T11:37:00Z",
+   "status": "finished",
+   "grams": 27.67,
+   "filaments": [
+    {
+     "color": "#FFFFFF",
+     "type": "PLA",
+     "grams": 26.82
+    },
+    {
+     "color": "#000000",
+     "type": "PLA",
+     "grams": 0.85
+    }
+   ],
+   "printer": "P2S",
+   "title": "penglai-plate3"
+  },
+  {
+   "id": 1341121564,
+   "start": "2026-10-15T07:13:13Z",
+   "end": "2026-10-15T09:23:23Z",
+   "status": "finished",
+   "grams": 82.09,
+   "filaments": [
+    {
+     "color": "#FFFFFF",
+     "type": "PLA",
+     "grams": 82.09
+    }
+   ],
+   "printer": "P2S",
+   "title": "bowl-white-pla"
+  },
+  {
+   "id": 1340786989,
+   "start": "2026-10-15T03:28:01Z",
+   "end": "2026-10-15T05:59:31Z",
+   "status": "finished",
+   "grams": 97.65,
+   "filaments": [
+    {
+     "color": "#000000",
+     "type": "PLA",
+     "grams": 97.65
+    }
+   ],
+   "printer": "P2S",
+   "title": "incense-seal-clock"
+  },
+  {
+   "id": 1339180849,
+   "start": "2026-10-14T16:10:14Z",
+   "end": "2026-10-14T16:54:43Z",
+   "status": "finished",
+   "grams": 11.37,
+   "filaments": [
+    {
+     "color": "#FF671F",
+     "type": "PLA",
+     "grams": 11.37
+    }
+   ],
+   "printer": "P2S",
+   "title": "ShadowSays_Halloween_words"
+  },
+  {
+   "id": 1339068632,
+   "start": "2026-10-14T15:31:04Z",
+   "end": "2026-10-14T15:44:55Z",
+   "status": "finished",
+   "grams": 2.25,
+   "filaments": [
+    {
+     "color": "#FF671F",
+     "type": "PLA",
+     "grams": 2.25
+    }
+   ],
+   "printer": "P2S",
+   "title": "ShadowSays_Halloween_pack"
+  },
+  {
+   "id": 1338400232,
+   "start": "2026-10-14T11:13:10Z",
+   "end": "2026-10-14T11:56:12Z",
+   "status": "finished",
+   "grams": 11.02,
+   "filaments": [
+    {
+     "color": "#FF671F",
+     "type": "PLA",
+     "grams": 11.02
+    }
+   ],
+   "printer": "P2S",
+   "title": "ShadowSays_Halloween_pack"
+  },
+  {
+   "id": 1338089304,
+   "start": "2026-10-14T08:20:43Z",
+   "end": "2026-10-14T09:04:00Z",
+   "status": "finished",
+   "grams": 11.02,
+   "filaments": [
+    {
+     "color": "#FF671F",
+     "type": "PLA",
+     "grams": 11.02
+    }
+   ],
+   "printer": "P2S",
+   "title": "ShadowSays_Halloween_pack"
+  },
+  {
+   "id": 1335840200,
+   "start": "2026-10-13T14:55:11Z",
+   "end": "2026-10-13T16:28:39Z",
+   "status": "finished",
+   "grams": 64.47,
+   "filaments": [
+    {
+     "color": "#FF671F",
+     "type": "PLA",
+     "grams": 64.47
+    }
+   ],
+   "printer": "P2S",
+   "title": "0.16mm layer, 2 walls, 15% infill"
+  },
+  {
+   "id": 1333416696,
+   "start": "2026-10-12T18:54:28Z",
+   "end": "2026-10-12T19:39:05Z",
+   "status": "finished",
+   "grams": 5.88,
+   "filaments": [
+    {
+     "color": "#000000",
+     "type": "PLA",
+     "grams": 5.88
+    }
+   ],
+   "printer": "P2S",
+   "title": "eye-pendant-2d"
+  },
+  {
+   "id": 1333308036,
+   "start": "2026-10-12T18:17:15Z",
+   "end": "2026-10-12T18:33:00Z",
+   "status": "finished",
+   "grams": 2.65,
+   "filaments": [
+    {
+     "color": "#000000",
+     "type": "PLA",
+     "grams": 2.65
+    }
+   ],
+   "printer": "P2S",
+   "title": "six-seven-pendant"
+  },
+  {
+   "id": 1333157670,
+   "start": "2026-10-12T17:27:16Z",
+   "end": "2026-10-12T17:42:42Z",
+   "status": "finished",
+   "grams": 2.47,
+   "filaments": [
+    {
+     "color": "#000000",
+     "type": "PLA",
+     "grams": 2.47
+    }
+   ],
+   "printer": "P2S",
+   "title": "yes-no-pendant"
+  },
+  {
+   "id": 1332986148,
+   "start": "2026-10-12T16:31:26Z",
+   "end": "2026-10-12T16:52:28Z",
+   "status": "finished",
+   "grams": 2.78,
+   "filaments": [
+    {
+     "color": "#000000",
+     "type": "PLA",
+     "grams": 2.78
+    }
+   ],
+   "printer": "P2S",
+   "title": "moon-pendant"
+  },
+  {
+   "id": 1332863040,
+   "start": "2026-10-12T15:51:29Z",
+   "end": "2026-10-12T16:00:39Z",
+   "status": "finished",
+   "grams": 0.58,
+   "filaments": [
+    {
+     "color": "#FF671F",
+     "type": "PLA",
+     "grams": 0.58
+    }
+   ],
+   "printer": "P2S",
+   "title": "ringlet-calendar"
+  },
+  {
+   "id": 1332809603,
+   "start": "2026-10-12T15:34:14Z",
+   "end": "2026-10-12T15:43:34Z",
+   "status": "finished",
+   "grams": 0.51,
+   "filaments": [
+    {
+     "color": "#FF671F",
+     "type": "PLA",
+     "grams": 0.51
+    }
+   ],
+   "printer": "P2S",
+   "title": "ringlet-calendar"
+  },
+  {
+   "id": 1331867832,
+   "start": "2026-10-12T08:38:27Z",
+   "end": "2026-10-12T11:52:31Z",
+   "status": "finished",
+   "grams": 91.81,
+   "filaments": [
+    {
+     "color": "#EFE255",
+     "type": "PLA",
+     "grams": 90.41
+    },
+    {
+     "color": "#000000",
+     "type": "PLA",
+     "grams": 1.4
+    }
+   ],
+   "printer": "P2S",
+   "title": "ringlet-calendar"
+  },
+  {
+   "id": 1331807818,
+   "start": "2026-10-12T07:59:07Z",
+   "end": "2026-10-12T08:28:33Z",
+   "status": "finished",
+   "grams": 7.14,
+   "filaments": [
+    {
+     "color": "#000000",
+     "type": "PLA",
+     "grams": 3.74
+    },
+    {
+     "color": "#8E9089",
+     "type": "PLA",
+     "grams": 1.31
+    },
+    {
+     "color": "#0A2989",
+     "type": "PLA",
+     "grams": 2.09
+    }
+   ],
+   "printer": "P2S",
+   "title": "Xcode_Keychain"
+  },
+  {
+   "id": 1331767182,
+   "start": "2026-10-12T07:32:13Z",
+   "end": "2026-10-12T07:41:02Z",
+   "status": "finished",
+   "grams": 0.71,
+   "filaments": [
+    {
+     "color": "#8E9089",
+     "type": "PLA",
+     "grams": 0.71
+    }
+   ],
+   "printer": "P2S",
+   "title": "ring-gap-test"
+  },
+  {
+   "id": 1331703452,
+   "start": "2026-10-12T06:49:38Z",
+   "end": "2026-10-12T07:20:50Z",
+   "status": "finished",
+   "grams": 7.96,
+   "filaments": [
+    {
+     "color": "#8E9089",
+     "type": "PLA",
+     "grams": 7.12
+    },
+    {
+     "color": "#000000",
+     "type": "PLA",
+     "grams": 0.84
+    }
+   ],
+   "printer": "P2S",
+   "title": "final-test"
+  },
+  {
+   "id": 1331533663,
+   "start": "2026-10-12T04:50:18Z",
+   "end": "2026-10-12T05:27:04Z",
+   "status": "finished",
+   "grams": 10.29,
+   "filaments": [
+    {
+     "color": "#F4D000",
+     "type": "PLA",
+     "grams": 9.56
+    },
+    {
+     "color": "#000000",
+     "type": "PLA",
+     "grams": 0.73
+    }
+   ],
+   "printer": "P2S",
+   "title": "peg14-test"
+  },
+  {
+   "id": 1331469165,
+   "start": "2026-10-12T04:05:17Z",
+   "end": "2026-10-12T04:26:02Z",
+   "status": "finished",
+   "grams": 5.03,
+   "filaments": [
+    {
+     "color": "#F4D000",
+     "type": "PLA",
+     "grams": 4.62
+    },
+    {
+     "color": "#000000",
+     "type": "PLA",
+     "grams": 0.41
+    }
+   ],
+   "printer": "P2S",
+   "title": "smear-test"
+  },
+  {
+   "id": 1331380576,
+   "start": "2026-10-12T03:06:24Z",
+   "end": "2026-10-12T03:51:45Z",
+   "status": "finished",
+   "grams": 13.37,
+   "filaments": [
+    {
+     "color": "#EFE255",
+     "type": "PLA",
+     "grams": 12.98
+    },
+    {
+     "color": "#000000",
+     "type": "PLA",
+     "grams": 0.39
+    }
+   ],
+   "printer": "P2S",
+   "title": "font-test"
+  },
+  {
+   "id": 1329354907,
+   "start": "2026-10-11T13:50:50Z",
+   "end": "2026-10-11T14:09:10Z",
+   "status": "finished",
+   "grams": 3.14,
+   "filaments": [
+    {
+     "color": "#8E9089",
+     "type": "PLA",
+     "grams": 2.56
+    },
+    {
+     "color": "#000000",
+     "type": "PLA",
+     "grams": 0.58
+    }
+   ],
+   "printer": "P2S",
+   "title": "ring-test"
+  },
+  {
+   "id": 1326248571,
+   "start": "2026-10-10T13:44:09Z",
+   "end": "2026-10-10T14:08:07Z",
+   "status": "finished",
+   "grams": 11.87,
+   "filaments": [
+    {
+     "color": "#EFE255",
+     "type": "PLA",
+     "grams": 11.87
+    }
+   ],
+   "printer": "P2S",
+   "title": "Base - 0.2mm layer, 2 walls, 15% infill"
+  },
+  {
+   "id": 1325572507,
+   "start": "2026-10-10T08:34:52Z",
+   "end": "2026-10-10T09:58:39Z",
+   "status": "finished",
+   "grams": 57.55,
+   "filaments": [
+    {
+     "color": "#EFE255",
+     "type": "PLA",
+     "grams": 57.55
+    }
+   ],
+   "printer": "P2S",
+   "title": "Full stackable set for one box with 2 spools"
+  },
+  {
+   "id": 1325469599,
+   "start": "2026-10-10T07:36:24Z",
+   "end": "2026-10-10T08:06:46Z",
+   "status": "finished",
+   "grams": 4.29,
+   "filaments": [
+    {
+     "color": "#E8DBB7",
+     "type": "PLA",
+     "grams": 4.29
+    }
+   ],
+   "printer": "P2S",
+   "title": "Includes optimised plates for PLA PETG ABS ASA and PC"
+  },
+  {
+   "id": 1319413518,
+   "start": "2026-10-08T07:27:21Z",
+   "end": "2026-10-08T08:43:29Z",
+   "status": "finished",
+   "grams": 33.61,
+   "filaments": [
+    {
+     "color": "#8E9089",
+     "type": "PLA",
+     "grams": 33.61
+    }
+   ],
+   "printer": "P2S",
+   "title": "Parametric Food Bowl Raiser_Plate 1"
+  },
+  {
+   "id": 1313276735,
+   "start": "2026-10-06T06:08:26Z",
+   "end": "2026-10-06T06:20:23Z",
+   "status": "finished",
+   "grams": 1.57,
+   "filaments": [
+    {
+     "color": "#E8DBB7",
+     "type": "PLA",
+     "grams": 1.57
+    }
+   ],
+   "printer": "P2S",
+   "title": "guitar pick generator_Plate 1"
+  },
+  {
+   "id": 1310612734,
+   "start": "2026-10-05T09:45:34Z",
+   "end": "2026-10-05T12:20:14Z",
+   "status": "finished",
+   "grams": 49.68,
+   "filaments": [
+    {
+     "color": "#E8DBB7",
+     "type": "PLA",
+     "grams": 49.68
+    }
+   ],
+   "printer": "P2S",
+   "title": "0.16mm layer, 2 walls, 15% infill"
+  },
+  {
+   "id": 1310383243,
+   "start": "2026-10-05T07:11:11Z",
+   "end": "2026-10-05T09:42:09Z",
+   "status": "finished",
+   "grams": 61.23,
+   "filaments": [
+    {
+     "color": "#FF671F",
+     "type": "PLA",
+     "grams": 61.23
+    }
+   ],
+   "printer": "P2S",
+   "title": "0.16mm layer, 2 walls, 15% infill"
+  },
+  {
+   "id": 1307179298,
+   "start": "2026-10-04T06:24:56Z",
+   "end": "2026-10-04T10:11:31Z",
+   "status": "finished",
+   "grams": 30.29,
+   "filaments": [
+    {
+     "color": "#F55A74",
+     "type": "PLA",
+     "grams": 25.45
+    },
+    {
+     "color": "#0A2989",
+     "type": "PLA",
+     "grams": 4.35
+    },
+    {
+     "color": "#000000",
+     "type": "PLA",
+     "grams": 0.49
+    }
+   ],
+   "printer": "P2S",
+   "title": "AMS | Print by Object | P1"
+  },
+  {
+   "id": 1293649233,
+   "start": "2026-09-29T16:25:37Z",
+   "end": "2026-09-29T19:53:13Z",
+   "status": "finished",
+   "grams": 107.53,
+   "filaments": [
+    {
+     "color": "#F7E6DE",
+     "type": "PLA",
+     "grams": 107.53
+    }
+   ],
+   "printer": "P2S",
+   "title": "Japandi Decorative Tray"
+  },
+  {
+   "id": 1289606421,
+   "start": "2026-09-28T07:49:21Z",
+   "end": "2026-09-28T08:31:18Z",
+   "status": "finished",
+   "grams": 11.47,
+   "filaments": [
+    {
+     "color": "#FFFFFF",
+     "type": "PETG",
+     "grams": 11.47
+    }
+   ],
+   "printer": "P2S",
+   "title": "斜插牙刷架 太空步 迈克杰克逊"
+  },
+  {
+   "id": 1289436221,
+   "start": "2026-09-28T05:45:55Z",
+   "end": "2026-09-28T07:29:50Z",
+   "status": "finished",
+   "grams": 37.72,
+   "filaments": [
+    {
+     "color": "#000000",
+     "type": "PLA",
+     "grams": 19.97
+    },
+    {
+     "color": "#FFFFFF",
+     "type": "PLA",
+     "grams": 17.75
+    }
+   ],
+   "printer": "P2S",
+   "title": "斜插牙刷架 太空步 迈克杰克逊"
+  },
+  {
+   "id": 1277698759,
+   "start": "2026-09-24T04:49:14Z",
+   "end": "2026-09-24T06:48:07Z",
+   "status": "finished",
+   "grams": 80.44,
+   "filaments": [
+    {
+     "color": "#F55A74",
+     "type": "PLA",
+     "grams": 78.12
+    },
+    {
+     "color": "#FFFFFF",
+     "type": "PLA",
+     "grams": 2.32
+    }
+   ],
+   "printer": "P2S",
+   "title": "0.2mm layer, 3 walls, 5% infill"
+  },
+  {
+   "id": 1275869537,
+   "start": "2026-09-23T14:39:49Z",
+   "end": "2026-09-23T17:14:08Z",
+   "status": "finished",
+   "grams": 133.72,
+   "filaments": [
+    {
+     "color": "#FF671F",
+     "type": "PLA",
+     "grams": 133.72
+    }
+   ],
+   "printer": "P2S",
+   "title": "0.2mm layer, 3 walls, 5% infill"
+  },
+  {
+   "id": 1272075501,
+   "start": "2026-09-22T06:53:18Z",
+   "end": "2026-09-22T07:38:18Z",
+   "status": "finished",
+   "grams": 21.04,
+   "filaments": [
+    {
+     "color": "#000000",
+     "type": "PLA",
+     "grams": 21.04
+    }
+   ],
+   "printer": "P2S",
+   "title": "0,5L, Thick Shape"
+  },
+  {
+   "id": 1247118400,
+   "start": "2026-09-13T14:54:15Z",
+   "end": "2026-09-13T18:06:52Z",
+   "status": "finished",
+   "grams": 91.65,
+   "filaments": [
+    {
+     "color": "#0A2989",
+     "type": "PLA",
+     "grams": 42.5
+    },
+    {
+     "color": "#000000",
+     "type": "PLA",
+     "grams": 43.49
+    },
+    {
+     "color": "#FFFFFF",
+     "type": "PLA",
+     "grams": 5.66
+    }
+   ],
+   "printer": "P2S",
+   "title": "iPhone Ultra - Multicolor (Final Model)"
+  },
+  {
+   "id": 1241700575,
+   "start": "2026-09-11T16:10:09Z",
+   "end": "2026-09-11T18:04:20Z",
+   "status": "finished",
+   "grams": 55.21,
+   "filaments": [
+    {
+     "color": "#898989",
+     "type": "PLA",
+     "grams": 55.21
+    }
+   ],
+   "printer": "P2S",
+   "title": "No-Slip Bed Sheet Lock"
+  },
+  {
+   "id": 1204917955,
+   "start": "2026-08-29T08:38:37Z",
+   "end": "2026-08-29T09:46:26Z",
+   "status": "finished",
+   "grams": 8.65,
+   "filaments": [
+    {
+     "color": "#E8DBB7",
+     "type": "PLA",
+     "grams": 8.65
+    }
+   ],
+   "printer": "P2S",
+   "title": "0.2mm layer, 2 walls, 15% infill"
+  },
+  {
+   "id": 1192915577,
+   "start": "2026-08-24T18:46:01Z",
+   "end": "2026-08-24T20:32:45Z",
+   "status": "finished",
+   "grams": 53.27,
+   "filaments": [
+    {
+     "color": "#FF671F",
+     "type": "PLA",
+     "grams": 53.27
+    }
+   ],
+   "printer": "P2S",
+   "title": "0.2mm layer, 2 walls, 15% infill"
+  },
+  {
+   "id": 1192582638,
+   "start": "2026-08-24T16:26:13Z",
+   "end": "2026-08-24T18:38:17Z",
+   "status": "finished",
+   "grams": 56.23,
+   "filaments": [
+    {
+     "color": "#8E9089",
+     "type": "PLA",
+     "grams": 56.23
+    }
+   ],
+   "printer": "P2S",
+   "title": "0.2mm layer, 2 walls, 15% infill"
+  },
+  {
+   "id": 1180877821,
+   "start": "2026-08-20T05:37:30Z",
+   "end": "2026-08-20T06:04:23Z",
+   "status": "finished",
+   "grams": 8.76,
+   "filaments": [
+    {
+     "color": "#F6DA5A",
+     "type": "PLA",
+     "grams": 8.76
+    }
+   ],
+   "printer": "P2S",
+   "title": "0.2mm layer, 2 walls, 15% infill"
+  },
+  {
+   "id": 1167996319,
+   "start": "2026-08-15T05:13:58Z",
+   "end": "2026-08-15T06:38:42Z",
+   "status": "finished",
+   "grams": 28.28,
+   "filaments": [
+    {
+     "color": "#FF671F",
+     "type": "PLA",
+     "grams": 28.28
+    }
+   ],
+   "printer": "P2S",
+   "title": "0.16mm layer, 2 walls, 15% infill"
+  },
+  {
+   "id": 1157937263,
+   "start": "2026-08-11T04:55:05Z",
+   "end": "2026-08-11T11:04:49Z",
+   "status": "finished",
+   "grams": 156.11,
+   "filaments": [
+    {
+     "color": "#C0C0C0",
+     "type": "PLA",
+     "grams": 156.11
+    }
+   ],
+   "printer": "P2S",
+   "title": "Custom"
+  },
+  {
+   "id": 1156157285,
+   "start": "2026-08-10T13:30:23Z",
+   "end": "2026-08-10T14:45:16Z",
+   "status": "finished",
+   "grams": 50.95,
+   "filaments": [
+    {
+     "color": "#E8DBB7",
+     "type": "PLA",
+     "grams": 50.95
+    }
+   ],
+   "printer": "P2S",
+   "title": "Custom"
+  },
+  {
+   "id": 1156029837,
+   "start": "2026-08-10T12:26:41Z",
+   "end": "2026-08-10T13:19:20Z",
+   "status": "finished",
+   "grams": 21.41,
+   "filaments": [
+    {
+     "color": "#E8DBB7",
+     "type": "PLA",
+     "grams": 21.41
+    }
+   ],
+   "printer": "P2S",
+   "title": "Custom"
+  },
+  {
+   "id": 1151098805,
+   "start": "2026-08-08T12:50:56Z",
+   "end": "2026-08-08T14:04:11Z",
+   "status": "finished",
+   "grams": 22.2,
+   "filaments": [
+    {
+     "color": "#FFFFFF",
+     "type": "PLA",
+     "grams": 15.52
+    },
+    {
+     "color": "#FF671F",
+     "type": "PLA",
+     "grams": 6.68
+    }
+   ],
+   "printer": "P2S",
+   "title": "0.2mm layer, 2 walls, 15% infill"
+  },
+  {
+   "id": 1136304972,
+   "start": "2026-08-02T14:06:24Z",
+   "end": "2026-08-02T14:47:26Z",
+   "status": "finished",
+   "grams": 26.31,
+   "filaments": [
+    {
+     "color": "#000000",
+     "type": "PLA",
+     "grams": 26.31
+    }
+   ],
+   "printer": "P2S",
+   "title": "A1 mini, 2 Slot Version, Gyroid infill"
+  },
+  {
+   "id": 1135675794,
+   "start": "2026-08-02T07:42:34Z",
+   "end": "2026-08-02T11:37:18Z",
+   "status": "finished",
+   "grams": 210.54,
+   "filaments": [
+    {
+     "color": "#000000",
+     "type": "PLA",
+     "grams": 210.54
+    }
+   ],
+   "printer": "P2S",
+   "title": "A1 mini, 2 Slot Version, Gyroid infill"
+  },
+  {
+   "id": 1135569455,
+   "start": "2026-08-02T06:12:45Z",
+   "end": "2026-08-02T07:19:35Z",
+   "status": "finished",
+   "grams": 18.69,
+   "filaments": [
+    {
+     "color": "#FF671F",
+     "type": "PLA",
+     "grams": 18.69
+    }
+   ],
+   "printer": "P2S",
+   "title": "0.16mm layer, 2 walls, 15% infill"
+  },
+  {
+   "id": 1134252019,
+   "start": "2026-08-01T16:34:00Z",
+   "end": "2026-08-01T17:34:24Z",
+   "status": "finished",
+   "grams": 46.14,
+   "filaments": [
+    {
+     "color": "#FF671F",
+     "type": "PLA",
+     "grams": 46.14
+    }
+   ],
+   "printer": "P2S",
+   "title": "rotating-rings-toy"
+  },
+  {
+   "id": 1134136403,
+   "start": "2026-08-01T15:41:06Z",
+   "end": "2026-08-01T16:19:51Z",
+   "status": "failed",
+   "grams": 43.5,
+   "filaments": [
+    {
+     "color": "#928F96",
+     "type": "PLA",
+     "grams": 43.5
+    }
+   ],
+   "printer": "P2S",
+   "title": "rotating-rings-toy"
+  },
+  {
+   "id": 1134084325,
+   "start": "2026-08-01T15:17:30Z",
+   "end": "2026-08-01T15:36:13Z",
+   "status": "finished",
+   "grams": 5.17,
+   "filaments": [
+    {
+     "color": "#928F96",
+     "type": "PLA",
+     "grams": 5.17
+    }
+   ],
+   "printer": "P2S",
+   "title": "all parts except extender"
+  },
+  {
+   "id": 1133937725,
+   "start": "2026-08-01T14:09:19Z",
+   "end": "2026-08-01T15:08:12Z",
+   "status": "finished",
+   "grams": 27.59,
+   "filaments": [
+    {
+     "color": "#928F96",
+     "type": "PLA",
+     "grams": 27.59
+    }
+   ],
+   "printer": "P2S",
+   "title": "all parts except extender"
+  },
+  {
+   "id": 1133658372,
+   "start": "2026-08-01T11:41:48Z",
+   "end": "2026-08-01T13:18:07Z",
+   "status": "finished",
+   "grams": 37.04,
+   "filaments": [
+    {
+     "color": "#E8DBB7",
+     "type": "PLA",
+     "grams": 37.04
+    }
+   ],
+   "printer": "P2S",
+   "title": "all parts except extender"
+  },
+  {
+   "id": 1131042310,
+   "start": "2026-07-31T08:52:21Z",
+   "end": "2026-07-31T10:47:11Z",
+   "status": "finished",
+   "grams": 88.88,
+   "filaments": [
+    {
+     "color": "#8E9089",
+     "type": "PLA",
+     "grams": 88.88
+    }
+   ],
+   "printer": "P2S",
+   "title": "W240xH110 mm"
+  },
+  {
+   "id": 1126734046,
+   "start": "2026-07-29T14:31:03Z",
+   "end": "2026-07-29T17:46:12Z",
+   "status": "finished",
+   "grams": 44.09,
+   "filaments": [
+    {
+     "color": "#8E9089",
+     "type": "PLA",
+     "grams": 44.09
+    }
+   ],
+   "printer": "P2S",
+   "title": "Parametric Food Bowl Raiser_plate_2"
+  },
+  {
+   "id": 1126400559,
+   "start": "2026-07-29T11:44:18Z",
+   "end": "2026-07-29T14:25:31Z",
+   "status": "finished",
+   "grams": 65.85,
+   "filaments": [
+    {
+     "color": "#8E9089",
+     "type": "PLA",
+     "grams": 65.85
+    }
+   ],
+   "printer": "P2S",
+   "title": "Parametric Food Bowl Raiser_plate_1"
+  },
+  {
+   "id": 1121119675,
+   "start": "2026-07-27T08:19:56Z",
+   "end": "2026-07-27T14:22:02Z",
+   "status": "finished",
+   "grams": 76.46,
+   "filaments": [
+    {
+     "color": "#C2E189",
+     "type": "PLA",
+     "grams": 76.46
+    }
+   ],
+   "printer": "P2S",
+   "title": "0.16mm layer, 2 walls, 10% infill"
+  },
+  {
+   "id": 1121015164,
+   "start": "2026-07-27T06:55:36Z",
+   "end": "2026-07-27T07:50:14Z",
+   "status": "finished",
+   "grams": 37.64,
+   "filaments": [
+    {
+     "color": "#000000",
+     "type": "PLA",
+     "grams": 37.64
+    }
+   ],
+   "printer": "P2S",
+   "title": "0.2mm layer, 2 walls, 15% infill"
+  },
+  {
+   "id": 1120953847,
+   "start": "2026-07-27T06:02:28Z",
+   "end": "2026-07-27T06:37:02Z",
+   "status": "finished",
+   "grams": 11.65,
+   "filaments": [
+    {
+     "color": "#E8DBB7",
+     "type": "PLA",
+     "grams": 11.65
+    }
+   ],
+   "printer": "P2S",
+   "title": "Wanboo_T6_Max_Stand_Frame_Left"
+  },
+  {
+   "id": 1120893461,
+   "start": "2026-07-27T05:07:18Z",
+   "end": "2026-07-27T05:51:05Z",
+   "status": "finished",
+   "grams": 24.4,
+   "filaments": [
+    {
+     "color": "#E8DBB7",
+     "type": "PLA",
+     "grams": 24.4
+    }
+   ],
+   "printer": "P2S",
+   "title": "Wanboo_T6_Max_Stand_Frame_Left"
+  },
+  {
+   "id": 1119747805,
+   "start": "2026-07-26T17:56:17Z",
+   "end": "2026-07-26T18:42:29Z",
+   "status": "finished",
+   "grams": 24.55,
+   "filaments": [
+    {
+     "color": "#E8DBB7",
+     "type": "PLA",
+     "grams": 24.55
+    }
+   ],
+   "printer": "P2S",
+   "title": "Wanboo_T6_Max_Stand_Frame_Left"
+  },
+  {
+   "id": 1119525659,
+   "start": "2026-07-26T16:20:58Z",
+   "end": "2026-07-26T17:51:44Z",
+   "status": "finished",
+   "grams": 54.22,
+   "filaments": [
+    {
+     "color": "#E8DBB7",
+     "type": "PLA",
+     "grams": 54.22
+    }
+   ],
+   "printer": "P2S",
+   "title": "Wanboo_T6_Max_Stand_Base"
+  },
+  {
+   "id": 1118605786,
+   "start": "2026-07-26T08:03:14Z",
+   "end": "2026-07-26T10:21:56Z",
+   "status": "finished",
+   "grams": 70.38,
+   "filaments": [
+    {
+     "color": "#E8DBB7",
+     "type": "PLA",
+     "grams": 70.38
+    }
+   ],
+   "printer": "P2S",
+   "title": "Wanboo_T6_Max_Stand_Adapter"
+  },
+  {
+   "id": 1117080821,
+   "start": "2026-07-25T15:48:23Z",
+   "end": "2026-07-25T16:52:14Z",
+   "status": "finished",
+   "grams": 33.47,
+   "filaments": [
+    {
+     "color": "#8E9089",
+     "type": "PLA",
+     "grams": 33.47
+    }
+   ],
+   "printer": "P2S",
+   "title": "D150 H55"
+  },
+  {
+   "id": 1116893453,
+   "start": "2026-07-25T14:21:12Z",
+   "end": "2026-07-25T15:42:37Z",
+   "status": "finished",
+   "grams": 53.9,
+   "filaments": [
+    {
+     "color": "#8E9089",
+     "type": "PLA",
+     "grams": 53.9
+    }
+   ],
+   "printer": "P2S",
+   "title": "Parametric Food Bowl Raiser_plate_2"
+  },
+  {
+   "id": 1113736355,
+   "start": "2026-07-24T05:46:44Z",
+   "end": "2026-07-24T07:14:34Z",
+   "status": "finished",
+   "grams": 59.47,
+   "filaments": [
+    {
+     "color": "#8E9089",
+     "type": "PLA",
+     "grams": 59.47
+    }
+   ],
+   "printer": "P2S",
+   "title": "Case plus for DJI neo 2 - X, P, A Series"
+  },
+  {
+   "id": 1108895253,
+   "start": "2026-07-22T06:28:53Z",
+   "end": "2026-07-22T07:10:27Z",
+   "status": "finished",
+   "grams": 12.24,
+   "filaments": [
+    {
+     "color": "#FFFFFF",
+     "type": "PLA",
+     "grams": 12.24
+    }
+   ],
+   "printer": "P2S",
+   "title": "0.28mm layer, 2 walls, 15% infill"
+  }
+ ]
+}
