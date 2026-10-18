@@ -59,6 +59,15 @@ Apps and games for the foldable iPhone Duo, where folding the device is the whol
 
 🔩 **[hinge](https://github.com/artemnovichkov/hinge)** - control the iPhone Duo Simulator hinge angle from the CLI or AI agents.
 
+## 3D Printing
+
+My Bambu Lab P2S, updated daily by [print-heatmap](https://github.com/artemnovichkov/print-heatmap). Models are in [3d-prints](https://github.com/artemnovichkov/3d-prints).
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/artemnovichkov/artemnovichkov/print-heatmap/print-heatmap-dark.svg">
+  <img alt="3D printing heatmap" src="https://raw.githubusercontent.com/artemnovichkov/artemnovichkov/print-heatmap/print-heatmap-light.svg">
+</picture>
+
 ## Latest Blog Posts
 
 - [Xcode Projects for the Command Line and Coding Agents](https://artemnovichkov.com/blog/xcode-projects-for-the-command-line-and-coding-agents)

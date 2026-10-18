@@ -1,0 +1,15 @@
+name: Print heatmap
+on:
+  schedule:
+    - cron: "0 20 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  heatmap:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: artemnovichkov/print-heatmap@v1
+        with:
+          bambu_token: ${{ secrets.BAMBU_TOKEN }}
+          timezone: Asia/Almaty
