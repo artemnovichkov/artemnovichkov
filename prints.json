@@ -2,6 +2,38 @@
  "schema": 1,
  "prints": [
   {
+   "id": 1351498843,
+   "start": "2026-10-18T14:40:43Z",
+   "end": "2026-10-18T16:59:44Z",
+   "status": "finished",
+   "grams": 84.15,
+   "filaments": [
+    {
+     "color": "#FFFFFF",
+     "type": "PLA",
+     "grams": 84.15
+    }
+   ],
+   "printer": "P2S",
+   "title": "mask_face_P2S.gcode"
+  },
+  {
+   "id": 1350916020,
+   "start": "2026-10-18T11:05:36Z",
+   "end": "2026-10-18T13:57:17Z",
+   "status": "finished",
+   "grams": 65.64,
+   "filaments": [
+    {
+     "color": "#F2E3C2",
+     "type": "PETG",
+     "grams": 65.64
+    }
+   ],
+   "printer": "P2S",
+   "title": "0.2mm layer, 2 walls, 15% infill"
+  },
+  {
    "id": 1347185742,
    "start": "2026-10-17T05:58:04Z",
    "end": "2026-10-17T06:36:06Z",

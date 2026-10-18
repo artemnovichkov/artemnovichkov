@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="794" height="181" viewBox="0 0 794 181" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10">
 <style>.t{font-size:13px;font-weight:600}rect.c,rect.f{stroke-width:1}.bg{fill:#fff}text{fill:#57606a}.t{fill:#24292f}rect.c{stroke:#1b1f2312}rect.f{stroke:#1b1f2326}rect.f.hi{stroke:#1b1f2399}.l0{fill:#ebedf0}.l1{fill:#fdba74}.l2{fill:#f97316}.l3{fill:#c2410c}.l4{fill:#7c2d12}</style>
 <rect class="bg" width="794" height="181" rx="6"/>
-<text class="t" x="42" y="20">109.2 h of printing in the last year · 78 prints · 1 failed · longest streak 8 d</text>
+<text class="t" x="42" y="20">114.4 h of printing in the last year · 80 prints · 1 failed · longest streak 9 d</text>
 <text x="8" y="63">Mon</text>
 <text x="8" y="91">Wed</text>
 <text x="8" y="119">Fri</text>
@@ -381,7 +381,8 @@
 <rect class="c l4" x="756" y="96" width="11" height="11" rx="2"><title>9.5 h on Oct 15, 2026 · penglai-lid, penglai-plate3, bowl-white-pla, incense-seal-clock</title></rect>
 <rect class="c l3" x="756" y="110" width="11" height="11" rx="2"><title>3.3 h on Oct 16, 2026 · pumpkin-test, halloween-pumpkins, flow_rate_fine_calib_mode, flow_rate_coarse_calib_mode, auto_pa_line_calib_mode, ShadowSays_Halloween_pumpkins</title></rect>
 <rect class="c l1" x="756" y="124" width="11" height="11" rx="2"><title>0.6 h on Oct 17, 2026 · pumpkins-3</title></rect>
-<rect class="c l0" x="770" y="40" width="11" height="11" rx="2"><title>0.0 h on Oct 18, 2026</title></rect>
+<rect class="c l4" x="770" y="40" width="11" height="11" rx="2"><title>5.2 h on Oct 18, 2026 · mask_face_P2S.gcode, 0.2mm layer, 2 walls, 15% infill</title></rect>
+<rect class="c l0" x="770" y="54" width="11" height="11" rx="2"><title>0.0 h on Oct 19, 2026</title></rect>
 <rect class="c l0" x="42" y="141" width="11" height="5" rx="1.5"/>
 <rect class="c l0" x="56" y="141" width="11" height="5" rx="1.5"/>
 <rect class="c l0" x="70" y="141" width="11" height="5" rx="1.5"/>
@@ -434,7 +435,7 @@
 <rect class="f hi" x="728" y="141" width="11" height="5" rx="1.5" fill="#F7E6DE"/>
 <rect class="f hi" x="742" y="141" width="11" height="5" rx="1.5" fill="#EFE255"/>
 <rect class="f hi" x="756" y="141" width="11" height="5" rx="1.5" fill="#FFFFFF"/>
-<rect class="c l0" x="770" y="141" width="11" height="5" rx="1.5"/>
+<rect class="f hi" x="770" y="141" width="11" height="5" rx="1.5" fill="#FFFFFF"/>
 <text x="626" y="167">Less</text>
 <rect class="c l0" x="654" y="158" width="11" height="11" rx="2"/>
 <rect class="c l1" x="668" y="158" width="11" height="11" rx="2"/>
@@ -443,10 +444,10 @@
 <rect class="c l4" x="710" y="158" width="11" height="11" rx="2"/>
 <text x="728" y="167">More</text>
 <rect class="f lo" x="42" y="159" width="9" height="9" rx="2" fill="#000000"/>
-<text x="55" y="167">Black 17%</text>
+<text x="55" y="167">Black 16%</text>
 <rect class="f" x="117" y="159" width="9" height="9" rx="2" fill="#FF671F"/>
-<text x="130" y="167">Orange 16%</text>
+<text x="130" y="167">Orange 15%</text>
 <rect class="f" x="198" y="159" width="9" height="9" rx="2" fill="#8E9089"/>
 <text x="211" y="167">Gray 15%</text>
-<text x="272" y="167">· Current streak 8 d</text>
+<text x="272" y="167">· Current streak 9 d</text>
 </svg>
