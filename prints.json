@@ -1310,6 +1310,22 @@
    ],
    "printer": "P2S",
    "title": "0.28mm layer, 2 walls, 15% infill"
+  },
+  {
+   "id": 1106641862,
+   "start": "2026-07-21T09:08:47Z",
+   "end": "2026-07-21T12:22:29Z",
+   "status": "finished",
+   "grams": 89.06,
+   "filaments": [
+    {
+     "color": "#FFFFFF",
+     "type": "PLA",
+     "grams": 89.06
+    }
+   ],
+   "printer": "P2S",
+   "title": "0.2mm layer, 3 walls, 15% infill"
   }
  ]
 }
