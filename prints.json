@@ -2,6 +2,70 @@
  "schema": 1,
  "prints": [
   {
+   "id": 1355176144,
+   "start": "2026-10-19T17:29:01Z",
+   "end": "2026-10-19T17:36:11Z",
+   "status": "finished",
+   "grams": 0.21,
+   "filaments": [
+    {
+     "color": "#FFFFFF",
+     "type": "PLA",
+     "grams": 0.21
+    }
+   ],
+   "printer": "P2S",
+   "title": "mario-plate.gcode"
+  },
+  {
+   "id": 1355011017,
+   "start": "2026-10-19T16:33:12Z",
+   "end": "2026-10-19T17:06:58Z",
+   "status": "finished",
+   "grams": 17.49,
+   "filaments": [
+    {
+     "color": "#FFFFFF",
+     "type": "PLA",
+     "grams": 17.49
+    }
+   ],
+   "printer": "P2S",
+   "title": "fit-test.stl"
+  },
+  {
+   "id": 1353733104,
+   "start": "2026-10-19T06:58:38Z",
+   "end": "2026-10-19T08:07:21Z",
+   "status": "finished",
+   "grams": 26.72,
+   "filaments": [
+    {
+     "color": "#00AE42",
+     "type": "PLA",
+     "grams": 26.72
+    }
+   ],
+   "printer": "P2S",
+   "title": "nose_tip_P2S.gcode"
+  },
+  {
+   "id": 1353602067,
+   "start": "2026-10-19T05:24:55Z",
+   "end": "2026-10-19T06:49:13Z",
+   "status": "finished",
+   "grams": 46.18,
+   "filaments": [
+    {
+     "color": "#FFFFFF",
+     "type": "PLA",
+     "grams": 46.18
+    }
+   ],
+   "printer": "P2S",
+   "title": "nose_base_P2S.gcode"
+  },
+  {
    "id": 1351498843,
    "start": "2026-10-18T14:40:43Z",
    "end": "2026-10-18T16:59:44Z",
