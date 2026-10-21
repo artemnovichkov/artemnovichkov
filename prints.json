@@ -2,6 +2,54 @@
  "schema": 1,
  "prints": [
   {
+   "id": 1360790642,
+   "start": "2026-10-21T13:21:20Z",
+   "end": "2026-10-21T13:46:41Z",
+   "status": "finished",
+   "grams": 11.45,
+   "filaments": [
+    {
+     "color": "#000000",
+     "type": "PLA",
+     "grams": 11.45
+    }
+   ],
+   "printer": "P2S",
+   "title": "kindle-typewriter"
+  },
+  {
+   "id": 1360184334,
+   "start": "2026-10-21T08:38:41Z",
+   "end": "2026-10-21T10:56:24Z",
+   "status": "finished",
+   "grams": 108.47,
+   "filaments": [
+    {
+     "color": "#DE4343",
+     "type": "PLA",
+     "grams": 108.47
+    }
+   ],
+   "printer": "P2S",
+   "title": "kindle-typewriter"
+  },
+  {
+   "id": 1359960151,
+   "start": "2026-10-21T06:15:34Z",
+   "end": "2026-10-21T06:38:20Z",
+   "status": "finished",
+   "grams": 10.29,
+   "filaments": [
+    {
+     "color": "#DE4343",
+     "type": "PLA",
+     "grams": 10.29
+    }
+   ],
+   "printer": "P2S",
+   "title": "dt-test"
+  },
+  {
    "id": 1358178681,
    "start": "2026-10-20T16:36:49Z",
    "end": "2026-10-20T16:59:36Z",

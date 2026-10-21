@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="794" height="181" viewBox="0 0 794 181" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10">
 <style>.t{font-size:13px;font-weight:600}rect.c,rect.f{stroke-width:1}.bg{fill:#fff}text{fill:#57606a}.t{fill:#24292f}rect.c{stroke:#1b1f2312}rect.f{stroke:#1b1f2326}rect.f.hi{stroke:#1b1f2399}.l0{fill:#ebedf0}.l1{fill:#fdba74}.l2{fill:#f97316}.l3{fill:#c2410c}.l4{fill:#7c2d12}</style>
 <rect class="bg" width="794" height="181" rx="6"/>
-<text class="t" x="42" y="20">122.3 h of printing in the last year · 90 prints · 1 failed · longest streak 11 d</text>
+<text class="t" x="42" y="20">125.4 h of printing in the last year · 93 prints · 1 failed · longest streak 12 d</text>
 <text x="8" y="63">Mon</text>
 <text x="8" y="91">Wed</text>
 <text x="8" y="119">Fri</text>
@@ -292,7 +292,7 @@
 <rect class="c l3" x="588" y="68" width="11" height="11" rx="2"><title>3.2 h on Jul 21, 2026 · 0.2mm layer, 3 walls, 15% infill</title></rect>
 <rect class="c l1" x="588" y="82" width="11" height="11" rx="2"><title>0.7 h on Jul 22, 2026 · 0.28mm layer, 2 walls, 15% infill</title></rect>
 <rect class="c l0" x="588" y="96" width="11" height="11" rx="2"><title>0.0 h on Jul 23, 2026</title></rect>
-<rect class="c l2" x="588" y="110" width="11" height="11" rx="2"><title>1.5 h on Jul 24, 2026 · Case plus for DJI neo 2 - X, P, A Series</title></rect>
+<rect class="c l1" x="588" y="110" width="11" height="11" rx="2"><title>1.5 h on Jul 24, 2026 · Case plus for DJI neo 2 - X, P, A Series</title></rect>
 <rect class="c l2" x="588" y="124" width="11" height="11" rx="2"><title>2.4 h on Jul 25, 2026 · D150 H55, Parametric Food Bowl Raiser_plate_2</title></rect>
 <rect class="c l3" x="602" y="40" width="11" height="11" rx="2"><title>4.6 h on Jul 26, 2026 · Wanboo_T6_Max_Stand_Frame_Left, Wanboo_T6_Max_Stand_Base, Wanboo_T6_Max_Stand_Adapter</title></rect>
 <rect class="c l4" x="602" y="54" width="11" height="11" rx="2"><title>8.3 h on Jul 27, 2026 · 0.16mm layer, 2 walls, 10% infill, 0.2mm layer, 2 walls, 15% infill, Wanboo_T6_Max_Stand_Frame_Left</title></rect>
@@ -355,7 +355,7 @@
 <rect class="c l0" x="714" y="40" width="11" height="11" rx="2"><title>0.0 h on Sep 20, 2026</title></rect>
 <rect class="c l0" x="714" y="54" width="11" height="11" rx="2"><title>0.0 h on Sep 21, 2026</title></rect>
 <rect class="c l1" x="714" y="68" width="11" height="11" rx="2"><title>0.8 h on Sep 22, 2026 · 0,5L, Thick Shape</title></rect>
-<rect class="c l3" x="714" y="82" width="11" height="11" rx="2"><title>2.6 h on Sep 23, 2026 · 0.2mm layer, 3 walls, 5% infill</title></rect>
+<rect class="c l2" x="714" y="82" width="11" height="11" rx="2"><title>2.6 h on Sep 23, 2026 · 0.2mm layer, 3 walls, 5% infill</title></rect>
 <rect class="c l2" x="714" y="96" width="11" height="11" rx="2"><title>2.0 h on Sep 24, 2026 · 0.2mm layer, 3 walls, 5% infill</title></rect>
 <rect class="c l0" x="714" y="110" width="11" height="11" rx="2"><title>0.0 h on Sep 25, 2026</title></rect>
 <rect class="c l0" x="714" y="124" width="11" height="11" rx="2"><title>0.0 h on Sep 26, 2026</title></rect>
@@ -384,7 +384,8 @@
 <rect class="c l4" x="770" y="40" width="11" height="11" rx="2"><title>5.2 h on Oct 18, 2026 · mask_face_P2S.gcode, 0.2mm layer, 2 walls, 15% infill</title></rect>
 <rect class="c l3" x="770" y="54" width="11" height="11" rx="2"><title>3.2 h on Oct 19, 2026 · mario-plate.gcode, fit-test.stl, nose_tip_P2S.gcode, nose_base_P2S.gcode</title></rect>
 <rect class="c l4" x="770" y="68" width="11" height="11" rx="2"><title>4.7 h on Oct 20, 2026 · dt-test, key-test, kindle-typewriter, fit-test-5-pw6.stl, fit-test-3</title></rect>
-<rect class="c l0" x="770" y="82" width="11" height="11" rx="2"><title>0.0 h on Oct 21, 2026</title></rect>
+<rect class="c l3" x="770" y="82" width="11" height="11" rx="2"><title>3.1 h on Oct 21, 2026 · kindle-typewriter, dt-test</title></rect>
+<rect class="c l0" x="770" y="96" width="11" height="11" rx="2"><title>0.0 h on Oct 22, 2026</title></rect>
 <rect class="c l0" x="42" y="141" width="11" height="5" rx="1.5"/>
 <rect class="c l0" x="56" y="141" width="11" height="5" rx="1.5"/>
 <rect class="c l0" x="70" y="141" width="11" height="5" rx="1.5"/>
@@ -437,7 +438,7 @@
 <rect class="f hi" x="728" y="141" width="11" height="5" rx="1.5" fill="#F7E6DE"/>
 <rect class="f hi" x="742" y="141" width="11" height="5" rx="1.5" fill="#EFE255"/>
 <rect class="f hi" x="756" y="141" width="11" height="5" rx="1.5" fill="#FFFFFF"/>
-<rect class="f hi" x="770" y="141" width="11" height="5" rx="1.5" fill="#FFFFFF"/>
+<rect class="f" x="770" y="141" width="11" height="5" rx="1.5" fill="#DE4343"/>
 <text x="626" y="167">Less</text>
 <rect class="c l0" x="654" y="158" width="11" height="11" rx="2"/>
 <rect class="c l1" x="668" y="158" width="11" height="11" rx="2"/>
@@ -446,10 +447,10 @@
 <rect class="c l4" x="710" y="158" width="11" height="11" rx="2"/>
 <text x="728" y="167">More</text>
 <rect class="f hi" x="42" y="159" width="9" height="9" rx="2" fill="#FFFFFF"/>
-<text x="55" y="167">White 17%</text>
+<text x="55" y="167">White 16%</text>
 <rect class="f lo" x="117" y="159" width="9" height="9" rx="2" fill="#000000"/>
 <text x="130" y="167">Black 15%</text>
 <rect class="f" x="192" y="159" width="9" height="9" rx="2" fill="#FF671F"/>
 <text x="205" y="167">Orange 14%</text>
-<text x="277" y="167">· Current streak 11 d</text>
+<text x="277" y="167">· Current streak 12 d</text>
 </svg>
