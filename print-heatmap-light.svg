@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="794" height="181" viewBox="0 0 794 181" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10">
 <style>.t{font-size:13px;font-weight:600}rect.c,rect.f{stroke-width:1}.bg{fill:#fff}text{fill:#57606a}.t{fill:#24292f}rect.c{stroke:#1b1f2312}rect.f{stroke:#1b1f2326}rect.f.hi{stroke:#1b1f2399}.l0{fill:#ebedf0}.l1{fill:#fdba74}.l2{fill:#f97316}.l3{fill:#c2410c}.l4{fill:#7c2d12}</style>
 <rect class="bg" width="794" height="181" rx="6"/>
-<text class="t" x="42" y="20">125.4 h of printing in the last year · 93 prints · 1 failed · longest streak 12 d</text>
+<text class="t" x="42" y="20">131.2 h of printing in the last year · 95 prints · 1 failed · longest streak 13 d</text>
 <text x="8" y="63">Mon</text>
 <text x="8" y="91">Wed</text>
 <text x="8" y="119">Fri</text>
@@ -385,7 +385,8 @@
 <rect class="c l3" x="770" y="54" width="11" height="11" rx="2"><title>3.2 h on Oct 19, 2026 · mario-plate.gcode, fit-test.stl, nose_tip_P2S.gcode, nose_base_P2S.gcode</title></rect>
 <rect class="c l4" x="770" y="68" width="11" height="11" rx="2"><title>4.7 h on Oct 20, 2026 · dt-test, key-test, kindle-typewriter, fit-test-5-pw6.stl, fit-test-3</title></rect>
 <rect class="c l3" x="770" y="82" width="11" height="11" rx="2"><title>3.1 h on Oct 21, 2026 · kindle-typewriter, dt-test</title></rect>
-<rect class="c l0" x="770" y="96" width="11" height="11" rx="2"><title>0.0 h on Oct 22, 2026</title></rect>
+<rect class="c l4" x="770" y="96" width="11" height="11" rx="2"><title>5.7 h on Oct 22, 2026 · 0.2mm layer, 2 walls, 15% infill</title></rect>
+<rect class="c l0" x="770" y="110" width="11" height="11" rx="2"><title>0.0 h on Oct 23, 2026</title></rect>
 <rect class="c l0" x="42" y="141" width="11" height="5" rx="1.5"/>
 <rect class="c l0" x="56" y="141" width="11" height="5" rx="1.5"/>
 <rect class="c l0" x="70" y="141" width="11" height="5" rx="1.5"/>
@@ -449,8 +450,8 @@
 <rect class="f hi" x="42" y="159" width="9" height="9" rx="2" fill="#FFFFFF"/>
 <text x="55" y="167">White 16%</text>
 <rect class="f lo" x="117" y="159" width="9" height="9" rx="2" fill="#000000"/>
-<text x="130" y="167">Black 15%</text>
+<text x="130" y="167">Black 14%</text>
 <rect class="f" x="192" y="159" width="9" height="9" rx="2" fill="#FF671F"/>
-<text x="205" y="167">Orange 14%</text>
-<text x="277" y="167">· Current streak 12 d</text>
+<text x="205" y="167">Orange 13%</text>
+<text x="277" y="167">· Current streak 13 d</text>
 </svg>

@@ -2,6 +2,38 @@
  "schema": 1,
  "prints": [
   {
+   "id": 1363964978,
+   "start": "2026-10-22T13:18:27Z",
+   "end": "2026-10-22T18:05:44Z",
+   "status": "finished",
+   "grams": 87.44,
+   "filaments": [
+    {
+     "color": "#D3C5A3",
+     "type": "PETG",
+     "grams": 87.44
+    }
+   ],
+   "printer": "P2S",
+   "title": "0.2mm layer, 2 walls, 15% infill"
+  },
+  {
+   "id": 1363033845,
+   "start": "2026-10-22T05:01:12Z",
+   "end": "2026-10-22T05:58:38Z",
+   "status": "finished",
+   "grams": 32.71,
+   "filaments": [
+    {
+     "color": "#FFFFFF",
+     "type": "PLA",
+     "grams": 32.71
+    }
+   ],
+   "printer": "P2S",
+   "title": "0.2mm layer, 2 walls, 15% infill"
+  },
+  {
    "id": 1360790642,
    "start": "2026-10-21T13:21:20Z",
    "end": "2026-10-21T13:46:41Z",
