@@ -387,6 +387,7 @@
 <rect class="c l3" x="770" y="82" width="11" height="11" rx="2"><title>3.1 h on Oct 21, 2026 · kindle-typewriter, dt-test</title></rect>
 <rect class="c l4" x="770" y="96" width="11" height="11" rx="2"><title>5.7 h on Oct 22, 2026 · 0.2mm layer, 2 walls, 15% infill</title></rect>
 <rect class="c l0" x="770" y="110" width="11" height="11" rx="2"><title>0.0 h on Oct 23, 2026</title></rect>
+<rect class="c l0" x="770" y="124" width="11" height="11" rx="2"><title>0.0 h on Oct 24, 2026</title></rect>
 <rect class="c l0" x="42" y="141" width="11" height="5" rx="1.5"/>
 <rect class="c l0" x="56" y="141" width="11" height="5" rx="1.5"/>
 <rect class="c l0" x="70" y="141" width="11" height="5" rx="1.5"/>
@@ -453,5 +454,5 @@
 <text x="130" y="167">Black 14%</text>
 <rect class="f" x="192" y="159" width="9" height="9" rx="2" fill="#FF671F"/>
 <text x="205" y="167">Orange 13%</text>
-<text x="277" y="167">· Current streak 13 d</text>
+<text x="277" y="167">· Current streak 0 d</text>
 </svg>
