@@ -2,6 +2,86 @@
  "schema": 1,
  "prints": [
   {
+   "id": 1371273574,
+   "start": "2026-10-24T18:13:55Z",
+   "end": "2026-10-24T18:28:01Z",
+   "status": "finished",
+   "grams": 1.1,
+   "filaments": [
+    {
+     "color": "#F2F2F2",
+     "type": "PLA",
+     "grams": 1.1
+    }
+   ],
+   "printer": "P2S",
+   "title": "almaty-tv-tower"
+  },
+  {
+   "id": 1371187562,
+   "start": "2026-10-24T17:44:39Z",
+   "end": "2026-10-24T18:08:06Z",
+   "status": "failed",
+   "grams": 3.15,
+   "filaments": [
+    {
+     "color": "#FFFFFF",
+     "type": "PLA",
+     "grams": 3.15
+    }
+   ],
+   "printer": "P2S",
+   "title": "almaty-tv-tower"
+  },
+  {
+   "id": 1371000882,
+   "start": "2026-10-24T16:43:02Z",
+   "end": "2026-10-24T17:11:19Z",
+   "status": "finished",
+   "grams": 2.58,
+   "filaments": [
+    {
+     "color": "#D3C5A3",
+     "type": "PETG",
+     "grams": 2.58
+    }
+   ],
+   "printer": "P2S",
+   "title": "0.12mm layer, 2 walls, 100% infill"
+  },
+  {
+   "id": 1370701579,
+   "start": "2026-10-24T15:07:18Z",
+   "end": "2026-10-24T16:12:53Z",
+   "status": "finished",
+   "grams": 6.09,
+   "filaments": [
+    {
+     "color": "#D3C5A3",
+     "type": "PETG",
+     "grams": 6.09
+    }
+   ],
+   "printer": "P2S",
+   "title": "0.16mm layer, 2 walls, 15% infill"
+  },
+  {
+   "id": 1369467723,
+   "start": "2026-10-24T05:59:49Z",
+   "end": "2026-10-24T06:36:45Z",
+   "status": "finished",
+   "grams": 18.73,
+   "filaments": [
+    {
+     "color": "#FFFFFF",
+     "type": "PLA",
+     "grams": 18.73
+    }
+   ],
+   "printer": "P2S",
+   "title": "hat_brackets_P2S.gcode"
+  },
+  {
    "id": 1363964978,
    "start": "2026-10-22T13:18:27Z",
    "end": "2026-10-22T18:05:44Z",
