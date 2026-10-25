@@ -2,6 +2,118 @@
  "schema": 1,
  "prints": [
   {
+   "id": 1374295804,
+   "start": "2026-10-25T16:46:35Z",
+   "end": "2026-10-25T17:58:37Z",
+   "status": "finished",
+   "grams": 31.59,
+   "filaments": [
+    {
+     "color": "#DE4343",
+     "type": "PLA",
+     "grams": 31.59
+    }
+   ],
+   "printer": "P2S",
+   "title": "watch-stool"
+  },
+  {
+   "id": 1374104492,
+   "start": "2026-10-25T15:49:11Z",
+   "end": "2026-10-25T16:17:57Z",
+   "status": "finished",
+   "grams": 14.17,
+   "filaments": [
+    {
+     "color": "#DE4343",
+     "type": "PLA",
+     "grams": 14.17
+    }
+   ],
+   "printer": "P2S",
+   "title": "watch-stool-fit"
+  },
+  {
+   "id": 1373948248,
+   "start": "2026-10-25T15:01:58Z",
+   "end": "2026-10-25T15:27:15Z",
+   "status": "finished",
+   "grams": 12.19,
+   "filaments": [
+    {
+     "color": "#DE4343",
+     "type": "PLA",
+     "grams": 12.19
+    }
+   ],
+   "printer": "P2S",
+   "title": "watch-stool-fit"
+  },
+  {
+   "id": 1373234592,
+   "start": "2026-10-25T10:46:22Z",
+   "end": "2026-10-25T11:53:54Z",
+   "status": "finished",
+   "grams": 41.46,
+   "filaments": [
+    {
+     "color": "#FFFFFF",
+     "type": "PLA",
+     "grams": 41.46
+    }
+   ],
+   "printer": "P2S",
+   "title": "hat_ring_front_R_P2S.gcode"
+  },
+  {
+   "id": 1372841045,
+   "start": "2026-10-25T07:36:04Z",
+   "end": "2026-10-25T08:35:16Z",
+   "status": "finished",
+   "grams": 5.58,
+   "filaments": [
+    {
+     "color": "#F2E3C2",
+     "type": "PETG",
+     "grams": 5.58
+    }
+   ],
+   "printer": "P2S",
+   "title": "0.16mm layer, 2 walls, 15% infill"
+  },
+  {
+   "id": 1372759809,
+   "start": "2026-10-25T06:45:18Z",
+   "end": "2026-10-25T07:13:25Z",
+   "status": "failed",
+   "grams": 4.26,
+   "filaments": [
+    {
+     "color": "#D3C5A3",
+     "type": "PETG",
+     "grams": 4.26
+    }
+   ],
+   "printer": "P2S",
+   "title": "skullcord"
+  },
+  {
+   "id": 1372658905,
+   "start": "2026-10-25T05:29:28Z",
+   "end": "2026-10-25T06:37:21Z",
+   "status": "finished",
+   "grams": 41.48,
+   "filaments": [
+    {
+     "color": "#FFFFFF",
+     "type": "PLA",
+     "grams": 41.48
+    }
+   ],
+   "printer": "P2S",
+   "title": "hat_ring_front_L_P2S.gcode"
+  },
+  {
    "id": 1371273574,
    "start": "2026-10-24T18:13:55Z",
    "end": "2026-10-24T18:28:01Z",
