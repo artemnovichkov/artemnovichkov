@@ -2,6 +2,70 @@
  "schema": 1,
  "prints": [
   {
+   "id": 1377241937,
+   "start": "2026-10-26T15:06:50Z",
+   "end": "2026-10-26T15:56:52Z",
+   "status": "finished",
+   "grams": 23.28,
+   "filaments": [
+    {
+     "color": "#DE4343",
+     "type": "PLA",
+     "grams": 23.28
+    }
+   ],
+   "printer": "P2S",
+   "title": "watch-stool"
+  },
+  {
+   "id": 1376552626,
+   "start": "2026-10-26T10:31:53Z",
+   "end": "2026-10-26T10:55:55Z",
+   "status": "finished",
+   "grams": 9.32,
+   "filaments": [
+    {
+     "color": "#DE4343",
+     "type": "PLA",
+     "grams": 9.32
+    }
+   ],
+   "printer": "P2S",
+   "title": "watch-stool-stack-test"
+  },
+  {
+   "id": 1376279732,
+   "start": "2026-10-26T07:56:40Z",
+   "end": "2026-10-26T08:36:22Z",
+   "status": "finished",
+   "grams": 3.3,
+   "filaments": [
+    {
+     "color": "#D3C5A3",
+     "type": "PETG",
+     "grams": 3.3
+    }
+   ],
+   "printer": "P2S",
+   "title": "all parts except extender"
+  },
+  {
+   "id": 1376160287,
+   "start": "2026-10-26T06:35:49Z",
+   "end": "2026-10-26T07:45:08Z",
+   "status": "finished",
+   "grams": 29.94,
+   "filaments": [
+    {
+     "color": "#DE4343",
+     "type": "PLA",
+     "grams": 29.94
+    }
+   ],
+   "printer": "P2S",
+   "title": "watch-stool"
+  },
+  {
    "id": 1374295804,
    "start": "2026-10-25T16:46:35Z",
    "end": "2026-10-25T17:58:37Z",

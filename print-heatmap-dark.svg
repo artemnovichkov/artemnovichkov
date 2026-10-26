@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="794" height="181" viewBox="0 0 794 181" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10">
 <style>.t{font-size:13px;font-weight:600}rect.c,rect.f{stroke-width:1}.bg{fill:#0d1117}text{fill:#8b949e}.t{fill:#e6edf3}rect.c{stroke:#ffffff0d}rect.f{stroke:#ffffff1a}rect.f.lo{stroke:#ffffffa0}.l0{fill:#161b22}.l1{fill:#7c2d12}.l2{fill:#c2410c}.l3{fill:#f97316}.l4{fill:#fdba74}</style>
 <rect class="bg" width="794" height="181" rx="6"/>
-<text class="t" x="42" y="20">138.9 h of printing in the last year · 105 prints · 3 failed · longest streak 13 d</text>
+<text class="t" x="42" y="20">142.0 h of printing in the last year · 109 prints · 3 failed · longest streak 13 d</text>
 <text x="8" y="63">Mon</text>
 <text x="8" y="91">Wed</text>
 <text x="8" y="119">Fri</text>
@@ -369,7 +369,7 @@
 <rect class="c l2" x="728" y="124" width="11" height="11" rx="2"><title>2.3 h on Oct 10, 2026 · Base - 0.2mm layer, 2 walls, 15% infill, Full stackable set for one box with 2 spools, Includes optimised plates for PLA PETG ABS ASA and PC</title></rect>
 <rect class="c l1" x="742" y="40" width="11" height="11" rx="2"><title>0.3 h on Oct 11, 2026 · ring-test</title></rect>
 <rect class="c l4" x="742" y="54" width="11" height="11" rx="2"><title>8.0 h on Oct 12, 2026 · eye-pendant-2d, six-seven-pendant, yes-no-pendant, moon-pendant, ringlet-calendar, Xcode_Keychain, ring-gap-test, final-test, peg14-test, smear-test, font-test</title></rect>
-<rect class="c l2" x="742" y="68" width="11" height="11" rx="2"><title>1.6 h on Oct 13, 2026 · 0.16mm layer, 2 walls, 15% infill</title></rect>
+<rect class="c l1" x="742" y="68" width="11" height="11" rx="2"><title>1.6 h on Oct 13, 2026 · 0.16mm layer, 2 walls, 15% infill</title></rect>
 <rect class="c l2" x="742" y="82" width="11" height="11" rx="2"><title>2.4 h on Oct 14, 2026 · ShadowSays_Halloween_words, ShadowSays_Halloween_pack</title></rect>
 <rect class="c l4" x="742" y="96" width="11" height="11" rx="2"><title>9.5 h on Oct 15, 2026 · penglai-lid, penglai-plate3, bowl-white-pla, incense-seal-clock</title></rect>
 <rect class="c l3" x="742" y="110" width="11" height="11" rx="2"><title>3.3 h on Oct 16, 2026 · pumpkin-test, halloween-pumpkins, flow_rate_fine_calib_mode, flow_rate_coarse_calib_mode, auto_pa_line_calib_mode, ShadowSays_Halloween_pumpkins</title></rect>
@@ -382,7 +382,8 @@
 <rect class="c l0" x="756" y="110" width="11" height="11" rx="2"><title>0.0 h on Oct 23, 2026</title></rect>
 <rect class="c l2" x="756" y="124" width="11" height="11" rx="2"><title>2.4 h on Oct 24, 2026 · almaty-tv-tower, 0.12mm layer, 2 walls, 100% infill, 0.16mm layer, 2 walls, 15% infill, hat_brackets_P2S.gcode · 1 failed</title></rect>
 <rect class="c l4" x="770" y="40" width="11" height="11" rx="2"><title>5.3 h on Oct 25, 2026 · watch-stool, watch-stool-fit, hat_ring_front_R_P2S.gcode, 0.16mm layer, 2 walls, 15% infill, hat_ring_front_L_P2S.gcode · 1 failed</title></rect>
-<rect class="c l0" x="770" y="54" width="11" height="11" rx="2"><title>0.0 h on Oct 26, 2026</title></rect>
+<rect class="c l2" x="770" y="54" width="11" height="11" rx="2"><title>3.1 h on Oct 26, 2026 · watch-stool, watch-stool-stack-test, all parts except extender</title></rect>
+<rect class="c l0" x="770" y="68" width="11" height="11" rx="2"><title>0.0 h on Oct 27, 2026</title></rect>
 <rect class="c l0" x="42" y="141" width="11" height="5" rx="1.5"/>
 <rect class="c l0" x="56" y="141" width="11" height="5" rx="1.5"/>
 <rect class="c l0" x="70" y="141" width="11" height="5" rx="1.5"/>
@@ -435,7 +436,7 @@
 <rect class="f hi" x="728" y="141" width="11" height="5" rx="1.5" fill="#EFE255"/>
 <rect class="f hi" x="742" y="141" width="11" height="5" rx="1.5" fill="#FFFFFF"/>
 <rect class="f" x="756" y="141" width="11" height="5" rx="1.5" fill="#DE4343"/>
-<rect class="f hi" x="770" y="141" width="11" height="5" rx="1.5" fill="#FFFFFF"/>
+<rect class="f" x="770" y="141" width="11" height="5" rx="1.5" fill="#DE4343"/>
 <text x="626" y="167">Less</text>
 <rect class="c l0" x="654" y="158" width="11" height="11" rx="2"/>
 <rect class="c l1" x="668" y="158" width="11" height="11" rx="2"/>
@@ -448,6 +449,6 @@
 <rect class="f lo" x="117" y="159" width="9" height="9" rx="2" fill="#000000"/>
 <text x="130" y="167">Black 13%</text>
 <rect class="f" x="192" y="159" width="9" height="9" rx="2" fill="#FF671F"/>
-<text x="205" y="167">Orange 13%</text>
-<text x="277" y="167">· Current streak 2 d</text>
+<text x="205" y="167">Orange 12%</text>
+<text x="277" y="167">· Current streak 3 d</text>
 </svg>
