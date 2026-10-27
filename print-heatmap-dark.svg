@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="794" height="181" viewBox="0 0 794 181" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10">
 <style>.t{font-size:13px;font-weight:600}rect.c,rect.f{stroke-width:1}.bg{fill:#0d1117}text{fill:#8b949e}.t{fill:#e6edf3}rect.c{stroke:#ffffff0d}rect.f{stroke:#ffffff1a}rect.f.lo{stroke:#ffffffa0}.l0{fill:#161b22}.l1{fill:#7c2d12}.l2{fill:#c2410c}.l3{fill:#f97316}.l4{fill:#fdba74}</style>
 <rect class="bg" width="794" height="181" rx="6"/>
-<text class="t" x="42" y="20">142.0 h of printing in the last year · 109 prints · 3 failed · longest streak 13 d</text>
+<text class="t" x="42" y="20">146.2 h of printing in the last year · 111 prints · 3 failed · longest streak 13 d</text>
 <text x="8" y="63">Mon</text>
 <text x="8" y="91">Wed</text>
 <text x="8" y="119">Fri</text>
@@ -376,14 +376,15 @@
 <rect class="c l1" x="742" y="124" width="11" height="11" rx="2"><title>0.6 h on Oct 17, 2026 · pumpkins-3</title></rect>
 <rect class="c l4" x="756" y="40" width="11" height="11" rx="2"><title>5.2 h on Oct 18, 2026 · mask_face_P2S.gcode, 0.2mm layer, 2 walls, 15% infill</title></rect>
 <rect class="c l3" x="756" y="54" width="11" height="11" rx="2"><title>3.2 h on Oct 19, 2026 · mario-plate.gcode, fit-test.stl, nose_tip_P2S.gcode, nose_base_P2S.gcode</title></rect>
-<rect class="c l3" x="756" y="68" width="11" height="11" rx="2"><title>4.7 h on Oct 20, 2026 · dt-test, key-test, kindle-typewriter, fit-test-5-pw6.stl, fit-test-3</title></rect>
+<rect class="c l4" x="756" y="68" width="11" height="11" rx="2"><title>4.7 h on Oct 20, 2026 · dt-test, key-test, kindle-typewriter, fit-test-5-pw6.stl, fit-test-3</title></rect>
 <rect class="c l3" x="756" y="82" width="11" height="11" rx="2"><title>3.1 h on Oct 21, 2026 · kindle-typewriter, dt-test</title></rect>
 <rect class="c l4" x="756" y="96" width="11" height="11" rx="2"><title>5.7 h on Oct 22, 2026 · 0.2mm layer, 2 walls, 15% infill</title></rect>
 <rect class="c l0" x="756" y="110" width="11" height="11" rx="2"><title>0.0 h on Oct 23, 2026</title></rect>
 <rect class="c l2" x="756" y="124" width="11" height="11" rx="2"><title>2.4 h on Oct 24, 2026 · almaty-tv-tower, 0.12mm layer, 2 walls, 100% infill, 0.16mm layer, 2 walls, 15% infill, hat_brackets_P2S.gcode · 1 failed</title></rect>
 <rect class="c l4" x="770" y="40" width="11" height="11" rx="2"><title>5.3 h on Oct 25, 2026 · watch-stool, watch-stool-fit, hat_ring_front_R_P2S.gcode, 0.16mm layer, 2 walls, 15% infill, hat_ring_front_L_P2S.gcode · 1 failed</title></rect>
 <rect class="c l2" x="770" y="54" width="11" height="11" rx="2"><title>3.1 h on Oct 26, 2026 · watch-stool, watch-stool-stack-test, all parts except extender</title></rect>
-<rect class="c l0" x="770" y="68" width="11" height="11" rx="2"><title>0.0 h on Oct 27, 2026</title></rect>
+<rect class="c l3" x="770" y="68" width="11" height="11" rx="2"><title>4.2 h on Oct 27, 2026 · almaty-tv-tower, Cable Clip | 60 mm</title></rect>
+<rect class="c l0" x="770" y="82" width="11" height="11" rx="2"><title>0.0 h on Oct 28, 2026</title></rect>
 <rect class="c l0" x="42" y="141" width="11" height="5" rx="1.5"/>
 <rect class="c l0" x="56" y="141" width="11" height="5" rx="1.5"/>
 <rect class="c l0" x="70" y="141" width="11" height="5" rx="1.5"/>
@@ -448,7 +449,7 @@
 <text x="55" y="167">White 18%</text>
 <rect class="f lo" x="117" y="159" width="9" height="9" rx="2" fill="#000000"/>
 <text x="130" y="167">Black 13%</text>
-<rect class="f" x="192" y="159" width="9" height="9" rx="2" fill="#FF671F"/>
-<text x="205" y="167">Orange 12%</text>
-<text x="277" y="167">· Current streak 3 d</text>
+<rect class="f" x="192" y="159" width="9" height="9" rx="2" fill="#8E9089"/>
+<text x="205" y="167">Gray 12%</text>
+<text x="266" y="167">· Current streak 4 d</text>
 </svg>
