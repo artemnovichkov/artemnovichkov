@@ -2,6 +2,38 @@
  "schema": 1,
  "prints": [
   {
+   "id": 1387477600,
+   "start": "2026-10-29T17:05:13Z",
+   "end": "2026-10-29T20:44:27Z",
+   "status": "finished",
+   "grams": 98.26,
+   "filaments": [
+    {
+     "color": "#FF671F",
+     "type": "PLA",
+     "grams": 98.26
+    }
+   ],
+   "printer": "P2S",
+   "title": "V2 | 160mm x 160mm x 80mm"
+  },
+  {
+   "id": 1386070375,
+   "start": "2026-10-29T07:31:31Z",
+   "end": "2026-10-29T09:31:43Z",
+   "status": "finished",
+   "grams": 77.51,
+   "filaments": [
+    {
+     "color": "#FFFFFF",
+     "type": "PLA",
+     "grams": 77.51
+    }
+   ],
+   "printer": "P2S",
+   "title": "hat_ring_P2S.gcode"
+  },
+  {
    "id": 1384107354,
    "start": "2026-10-28T16:49:35Z",
    "end": "2026-10-28T17:51:06Z",
