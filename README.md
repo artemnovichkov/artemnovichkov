@@ -2,15 +2,22 @@
 
 📍 **Almaty, Kazakhstan** | 📱 **iOS Developer** | 👨🏻‍💻 **SwiftUI + AI**
 
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-
 > Building iOS apps and exploring SwiftUI. Currently at Salmon Group Ltd.
 
 📬 I curate **[iOS Daily](https://t.me/+Ztgi6RU2ApFkNDhi)**, one essential iOS article a day on Telegram.
+
+## On the App Store
+
+<table>
+<tr>
+<td width="80"><a href="https://apps.apple.com/app/id6815637296?pt=117136308&ct=github-profile&mt=8"><img width="64" src="https://artemnovichkov.com/apps/nardy/icon.png"></a></td>
+<td><a href="https://apps.apple.com/app/id6815637296?pt=117136308&ct=github-profile&mt=8"><b>Nardy</b></a><br>Long Narde and classic backgammon. Play a friend or a chatty AI. On iPhone Duo the fold is the bar.</td>
+</tr>
+<tr>
+<td width="80"><a href="https://apps.apple.com/app/id6816177737?pt=117136308&ct=github-profile&mt=8"><img width="64" src="https://raw.githubusercontent.com/artemnovichkov/Accorduon/main/.github/images/icon.png"></a></td>
+<td><a href="https://apps.apple.com/app/id6816177737?pt=117136308&ct=github-profile&mt=8"><b>Accorduon</b></a> · <a href="https://github.com/artemnovichkov/Accorduon">source</a><br>An accordion where the hinge is the bellows. No foldable? Rock any iPhone to play.</td>
+</tr>
+</table>
 
 ## Current Projects
 
@@ -30,10 +37,6 @@ Apps and games for the foldable iPhone Duo, where folding the device is the whol
 <tr>
 <td width="80"><a href="https://github.com/artemnovichkov/iPhone-Duo-by-Examples"><img width="64" src="https://raw.githubusercontent.com/artemnovichkov/iPhone-Duo-by-Examples/main/.github/images/icon.png"></a></td>
 <td><a href="https://github.com/artemnovichkov/iPhone-Duo-by-Examples"><b>iPhone Duo by Examples</b></a><br>SwiftUI examples for every iPhone Duo API, one runnable file at a time.</td>
-</tr>
-<tr>
-<td width="80"><a href="https://github.com/artemnovichkov/Accorduon"><img width="64" src="https://raw.githubusercontent.com/artemnovichkov/Accorduon/main/.github/images/icon.png"></a></td>
-<td><a href="https://github.com/artemnovichkov/Accorduon"><b>Accorduon</b></a><br>An accordion where the hinge is the bellows. Fold and unfold to play.</td>
 </tr>
 <tr>
 <td width="80"><a href="https://github.com/artemnovichkov/SandValley"><img width="64" src="https://raw.githubusercontent.com/artemnovichkov/SandValley/main/.github/images/icon.png"></a></td>
@@ -78,7 +81,4 @@ My Bambu Lab P2S, updated daily by [print-heatmap](https://github.com/artemnovic
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/-@iosartem-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/iosartem)
-[![Blog](https://img.shields.io/badge/-artemnovichkov.com-FF5722?style=flat-square)](https://artemnovichkov.com)
-[![LinkedIn](https://img.shields.io/badge/-Artem_Novichkov-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artemnovichkov)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/artemnovichkov)
+[Blog](https://artemnovichkov.com) · [X](https://x.com/iosartem) · [LinkedIn](https://www.linkedin.com/in/artemnovichkov) · [iOS Daily](https://t.me/+Ztgi6RU2ApFkNDhi)
