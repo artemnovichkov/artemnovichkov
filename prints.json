@@ -2,6 +2,91 @@
  "schema": 1,
  "prints": [
   {
+   "id": 1390943154,
+   "start": "2026-10-30T17:35:59Z",
+   "end": "2026-10-30T17:49:27Z",
+   "status": "finished",
+   "grams": 1.67,
+   "filaments": [
+    {
+     "color": "#D3C5A3",
+     "type": "PETG",
+     "grams": 1.67
+    }
+   ],
+   "printer": "P2S",
+   "title": "eye_dollar_P2S.gcode"
+  },
+  {
+   "id": 1390755220,
+   "start": "2026-10-30T16:34:04Z",
+   "end": "2026-10-30T17:25:31Z",
+   "status": "finished",
+   "grams": 16.9,
+   "filaments": [
+    {
+     "color": "#CBC6B8",
+     "type": "PLA",
+     "grams": 14.82
+    },
+    {
+     "color": "#000000",
+     "type": "PLA",
+     "grams": 2.08
+    }
+   ],
+   "printer": "P2S",
+   "title": "0.2mm layer, 2 walls, 15% infill"
+  },
+  {
+   "id": 1390643705,
+   "start": "2026-10-30T15:57:23Z",
+   "end": "2026-10-30T16:29:04Z",
+   "status": "finished",
+   "grams": 18.09,
+   "filaments": [
+    {
+     "color": "#CBC6B8",
+     "type": "PLA",
+     "grams": 18.09
+    }
+   ],
+   "printer": "P2S",
+   "title": "hat_corners_P2S.gcode"
+  },
+  {
+   "id": 1390521308,
+   "start": "2026-10-30T15:17:05Z",
+   "end": "2026-10-30T15:32:06Z",
+   "status": "finished",
+   "grams": 2.49,
+   "filaments": [
+    {
+     "color": "#CBC6B8",
+     "type": "PLA",
+     "grams": 2.49
+    }
+   ],
+   "printer": "P2S",
+   "title": "chip-ring"
+  },
+  {
+   "id": 1389510549,
+   "start": "2026-10-30T08:24:16Z",
+   "end": "2026-10-30T14:45:34Z",
+   "status": "finished",
+   "grams": 58.85,
+   "filaments": [
+    {
+     "color": "#CBC6B8",
+     "type": "PLA",
+     "grams": 58.85
+    }
+   ],
+   "printer": "P2S",
+   "title": "0.16mm layer, 2 walls, 15% infill"
+  },
+  {
    "id": 1387477600,
    "start": "2026-10-29T17:05:13Z",
    "end": "2026-10-29T20:44:27Z",
