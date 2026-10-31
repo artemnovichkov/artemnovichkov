@@ -2,6 +2,70 @@
  "schema": 1,
  "prints": [
   {
+   "id": 1392959750,
+   "start": "2026-10-31T09:42:23Z",
+   "end": "2026-10-31T10:12:04Z",
+   "status": "finished",
+   "grams": 4.33,
+   "filaments": [
+    {
+     "color": "#CBC6B8",
+     "type": "PLA",
+     "grams": 4.33
+    }
+   ],
+   "printer": "P2S",
+   "title": "Heart Pendant 0.08mm layer "
+  },
+  {
+   "id": 1392806520,
+   "start": "2026-10-31T08:25:09Z",
+   "end": "2026-10-31T09:34:22Z",
+   "status": "finished",
+   "grams": 16.58,
+   "filaments": [
+    {
+     "color": "#FF671F",
+     "type": "PLA",
+     "grams": 16.58
+    }
+   ],
+   "printer": "P2S",
+   "title": "4 pumpkins, one plate"
+  },
+  {
+   "id": 1392771264,
+   "start": "2026-10-31T08:05:49Z",
+   "end": "2026-10-31T08:19:45Z",
+   "status": "finished",
+   "grams": 1.32,
+   "filaments": [
+    {
+     "color": "#7D6556",
+     "type": "PLA",
+     "grams": 1.32
+    }
+   ],
+   "printer": "P2S",
+   "title": "0.2mm layer, 2 walls, 5% infill"
+  },
+  {
+   "id": 1392578484,
+   "start": "2026-10-31T05:57:20Z",
+   "end": "2026-10-31T07:27:46Z",
+   "status": "finished",
+   "grams": 56.76,
+   "filaments": [
+    {
+     "color": "#FF671F",
+     "type": "PLA",
+     "grams": 56.76
+    }
+   ],
+   "printer": "P2S",
+   "title": "0.2mm layer, 2 walls, 5% infill"
+  },
+  {
    "id": 1390943154,
    "start": "2026-10-30T17:35:59Z",
    "end": "2026-10-30T17:49:27Z",
