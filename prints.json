@@ -2,6 +2,86 @@
  "schema": 1,
  "prints": [
   {
+   "id": 1400670313,
+   "start": "2026-11-02T17:23:54Z",
+   "end": "2026-11-02T17:41:40Z",
+   "status": "finished",
+   "grams": 1.18,
+   "filaments": [
+    {
+     "color": "#CBC6B8",
+     "type": "PLA",
+     "grams": 1.18
+    }
+   ],
+   "printer": "P2S",
+   "title": "almaty-tv-tower"
+  },
+  {
+   "id": 1400578496,
+   "start": "2026-11-02T16:54:28Z",
+   "end": "2026-11-02T17:09:01Z",
+   "status": "finished",
+   "grams": 2.02,
+   "filaments": [
+    {
+     "color": "#CBC6B8",
+     "type": "PLA",
+     "grams": 2.02
+    }
+   ],
+   "printer": "P2S",
+   "title": "almaty-fit-test-2"
+  },
+  {
+   "id": 1400494251,
+   "start": "2026-11-02T16:27:30Z",
+   "end": "2026-11-02T16:40:21Z",
+   "status": "finished",
+   "grams": 1.61,
+   "filaments": [
+    {
+     "color": "#CBC6B8",
+     "type": "PLA",
+     "grams": 1.61
+    }
+   ],
+   "printer": "P2S",
+   "title": "almaty-fit-test"
+  },
+  {
+   "id": 1400079167,
+   "start": "2026-11-02T14:09:22Z",
+   "end": "2026-11-02T14:49:49Z",
+   "status": "finished",
+   "grams": 22.57,
+   "filaments": [
+    {
+     "color": "#CBC6B8",
+     "type": "PLA",
+     "grams": 22.57
+    }
+   ],
+   "printer": "P2S",
+   "title": "0.2mm layer, 3 walls, 15% infill"
+  },
+  {
+   "id": 1399566530,
+   "start": "2026-11-02T10:30:31Z",
+   "end": "2026-11-02T11:23:57Z",
+   "status": "failed",
+   "grams": 88.78,
+   "filaments": [
+    {
+     "color": "#CBC6B8",
+     "type": "PLA",
+     "grams": 88.78
+    }
+   ],
+   "printer": "P2S",
+   "title": "penglai-bowl"
+  },
+  {
    "id": 1392959750,
    "start": "2026-10-31T09:42:23Z",
    "end": "2026-10-31T10:12:04Z",
