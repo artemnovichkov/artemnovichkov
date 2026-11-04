@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="794" height="181" viewBox="0 0 794 181" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10">
 <style>.t{font-size:13px;font-weight:600}rect.c,rect.f{stroke-width:1}.bg{fill:#fff}text{fill:#57606a}.t{fill:#24292f}rect.c{stroke:#1b1f2312}rect.f{stroke:#1b1f2326}rect.f.hi{stroke:#1b1f2399}.l0{fill:#ebedf0}.l1{fill:#fdba74}.l2{fill:#f97316}.l3{fill:#c2410c}.l4{fill:#7c2d12}@media (prefers-color-scheme: dark){.bg{fill:#0d1117}text{fill:#8b949e}.t{fill:#e6edf3}rect.c{stroke:#ffffff0d}rect.f{stroke:#ffffff1a}rect.f.lo{stroke:#ffffffa0}.l0{fill:#161b22}.l1{fill:#7c2d12}.l2{fill:#c2410c}.l3{fill:#f97316}.l4{fill:#fdba74}}</style>
 <rect class="bg" width="794" height="181" rx="6"/>
-<text class="t" x="42" y="20">168.9 h of printing in the last year · 132 prints · 4 failed · longest streak 13 d</text>
+<text class="t" x="42" y="20">172.1 h of printing in the last year · 134 prints · 4 failed · longest streak 13 d</text>
 <text x="8" y="63">Mon</text>
 <text x="8" y="91">Wed</text>
 <text x="8" y="119">Fri</text>
@@ -331,7 +331,7 @@
 <rect class="c l0" x="658" y="96" width="11" height="11" rx="2"><title>0.0 h on Sep 10, 2026</title></rect>
 <rect class="c l2" x="658" y="110" width="11" height="11" rx="2"><title>1.9 h on Sep 11, 2026 · No-Slip Bed Sheet Lock</title></rect>
 <rect class="c l0" x="658" y="124" width="11" height="11" rx="2"><title>0.0 h on Sep 12, 2026</title></rect>
-<rect class="c l2" x="672" y="40" width="11" height="11" rx="2"><title>3.2 h on Sep 13, 2026 · iPhone Ultra - Multicolor (Final Model)</title></rect>
+<rect class="c l3" x="672" y="40" width="11" height="11" rx="2"><title>3.2 h on Sep 13, 2026 · iPhone Ultra - Multicolor (Final Model)</title></rect>
 <rect class="c l0" x="672" y="54" width="11" height="11" rx="2"><title>0.0 h on Sep 14, 2026</title></rect>
 <rect class="c l0" x="672" y="68" width="11" height="11" rx="2"><title>0.0 h on Sep 15, 2026</title></rect>
 <rect class="c l0" x="672" y="82" width="11" height="11" rx="2"><title>0.0 h on Sep 16, 2026</title></rect>
@@ -383,7 +383,8 @@
 <rect class="c l3" x="756" y="124" width="11" height="11" rx="2"><title>3.4 h on Oct 31, 2026 · Heart Pendant 0.08mm layer , 4 pumpkins, one plate, 0.2mm layer, 2 walls, 5% infill</title></rect>
 <rect class="c l0" x="770" y="40" width="11" height="11" rx="2"><title>0.0 h on Nov 1, 2026</title></rect>
 <rect class="c l1" x="770" y="54" width="11" height="11" rx="2"><title>1.4 h on Nov 2, 2026 · almaty-tv-tower, almaty-fit-test-2, almaty-fit-test, 0.2mm layer, 3 walls, 15% infill · 1 failed</title></rect>
-<rect class="c l0" x="770" y="68" width="11" height="11" rx="2"><title>0.0 h on Nov 3, 2026</title></rect>
+<rect class="c l2" x="770" y="68" width="11" height="11" rx="2"><title>3.2 h on Nov 3, 2026 · almaty-tv-tower</title></rect>
+<rect class="c l0" x="770" y="82" width="11" height="11" rx="2"><title>0.0 h on Nov 4, 2026</title></rect>
 <rect class="c l0" x="42" y="141" width="11" height="5" rx="1.5"/>
 <rect class="c l0" x="56" y="141" width="11" height="5" rx="1.5"/>
 <rect class="c l0" x="70" y="141" width="11" height="5" rx="1.5"/>
@@ -450,5 +451,5 @@
 <text x="130" y="167">Orange 14%</text>
 <rect class="f lo" x="198" y="159" width="9" height="9" rx="2" fill="#000000"/>
 <text x="211" y="167">Black 13%</text>
-<text x="277" y="167">· Current streak 1 d</text>
+<text x="277" y="167">· Current streak 2 d</text>
 </svg>

@@ -2,6 +2,38 @@
  "schema": 1,
  "prints": [
   {
+   "id": 1402610079,
+   "start": "2026-11-03T08:02:33Z",
+   "end": "2026-11-03T08:57:08Z",
+   "status": "finished",
+   "grams": 46.1,
+   "filaments": [
+    {
+     "color": "#000000",
+     "type": "PLA",
+     "grams": 46.1
+    }
+   ],
+   "printer": "P2S",
+   "title": "almaty-tv-tower"
+  },
+  {
+   "id": 1402335998,
+   "start": "2026-11-03T04:59:42Z",
+   "end": "2026-11-03T07:17:12Z",
+   "status": "finished",
+   "grams": 64.19,
+   "filaments": [
+    {
+     "color": "#CBC6B8",
+     "type": "PLA",
+     "grams": 64.19
+    }
+   ],
+   "printer": "P2S",
+   "title": "almaty-tv-tower"
+  },
+  {
    "id": 1400670313,
    "start": "2026-11-02T17:23:54Z",
    "end": "2026-11-02T17:41:40Z",
