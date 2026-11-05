@@ -2,6 +2,38 @@
  "schema": 1,
  "prints": [
   {
+   "id": 1406986266,
+   "start": "2026-11-04T15:41:05Z",
+   "end": "2026-11-04T15:56:43Z",
+   "status": "finished",
+   "grams": 5.99,
+   "filaments": [
+    {
+     "color": "#000000",
+     "type": "PLA",
+     "grams": 5.99
+    }
+   ],
+   "printer": "P2S",
+   "title": "Parametric SSD Cable Clip_Plate 1"
+  },
+  {
+   "id": 1405920495,
+   "start": "2026-11-04T08:13:13Z",
+   "end": "2026-11-04T08:30:24Z",
+   "status": "finished",
+   "grams": 6.25,
+   "filaments": [
+    {
+     "color": "#000000",
+     "type": "PLA",
+     "grams": 6.25
+    }
+   ],
+   "printer": "P2S",
+   "title": "CableClip_SSD_V2(2)"
+  },
+  {
    "id": 1402610079,
    "start": "2026-11-03T08:02:33Z",
    "end": "2026-11-03T08:57:08Z",
